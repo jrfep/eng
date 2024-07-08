@@ -14,8 +14,9 @@ website:
     title: "J.R. Ferrer-Paris"
     type: inverse
     left:
-      - text: "Here we are"
+      - text: "Read more here"
         icon: eyeglasses
+        href: links.qmd
     right:
       - icon: folder-symlink
         menu:
@@ -25,8 +26,7 @@ website:
         - text: "cambiar a Español"
           icon: braces-asterisk
           href: "https://jrfep.github.io/esp/"
-        - text: "How to..."
-          icon: question
+
 format:
   html:
     theme: spacelab
