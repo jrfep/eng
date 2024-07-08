@@ -21,10 +21,10 @@ website:
         menu:
         - text: "Overview"
           icon: projector
-          href: "/"
+          href: "https://jrfep.github.io/"
         - text: "cambiar a Español"
           icon: braces-asterisk
-          href: "/esp"
+          href: "https://jrfep.github.io/esp/"
         - text: "How to..."
           icon: question
 format:
