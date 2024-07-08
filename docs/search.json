@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is me!",
+    "section": "",
+    "text": "My research projects apply information technology methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions.\nThey inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results.\nSince my appointment at UNSW I have co-developed the Global Ecosystem Typology as a new function-based approach to understand and classify all terrestrial, freshwater, marine and subterranean ecosystems on Earth. This typology is having significant impact on policy and practice of conservation around the world, including for identifying representativeness of current ecosystems in reserves to natural capital accounting. Application of this framework helps to understand changes in the distribution and condition of ecosystems that are essential for conservation of ecosystem services and nature’s contribution to human wellbeing. My research is leading to collaborations with international research and practitioner networks leading development of ecosystem specific indicators and analytical methods. These indicators support risk assessments of ecosystems, condition measurement and quantitative synthesis of ecosystem data to inform national and global reporting on conservation and sustainable development.\n\n\nVisit the Global Ecosystems webapp\nIn my current position I aim to improve ecosystem management and restoration capacity by applying these frameworks in an Australian context to track biodiversity outcomes effectively. This work spans terrestrial and freshwater ecosystems across landscapes managed by public, private and indigenous organisations in New South Wales.\nI am also working on management of threats to ecosystems. Bush fire regimes have proved to be a critical aspect of terrestrial ecosystem management in recent years, yet the knowledge base is fragmented and dispersed with limited accessibility to fire managers and researchers. To address this problem, I am leading the development of a Fire ecology traits database for plants, which will synthesize existing knowledge on the diversity of the responses of plant species to fires events. This new digital platform is founded on plant demographic processes and links spatiotemporally explicit observations on plant response to fire events and environmental conditions. The database will improve capacity to predict how fire regimes structure plant communities and inform fire management strategies for biodiversity conservation.\n\n\n\n\n\nVisit the Fire Ecology Traits for Plants webapp"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "José R. Ferrer Paris",
+    "section": "",
+    "text": "I develop methods and frameworks to inform ecosystem science and the conservation of biological diversity. My research is influencing global and national policy on conservation. Read more in the following slides.\n\n\n\nI learn and teach by sharing experiences, challenges, solutions and insights. Jump to the education slide, or explore my educatorial webpage for a collection of examples and resources. I also share tips and tricks in my blog spatial one and my explicado website.\n\n\n\nI invite you to browse my datasets, code, projects, biodiversity observations and more."
+  },
+  {
+    "objectID": "index.html#datasets",
+    "href": "index.html#datasets",
+    "title": "José R. Ferrer Paris",
+    "section": "Datasets",
+    "text": "Datasets"
+  },
+  {
+    "objectID": "index.html#code",
+    "href": "index.html#code",
+    "title": "José R. Ferrer Paris",
+    "section": "Code",
+    "text": "Code"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "José R. Ferrer Paris",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "index.html#biodiversity",
+    "href": "index.html#biodiversity",
+    "title": "José R. Ferrer Paris",
+    "section": "Biodiversity",
+    "text": "Biodiversity\nhttps://jrfep.quarto.pub/ecosystems-of-the-world/"
+  },
+  {
+    "objectID": "index.html#curious",
+    "href": "index.html#curious",
+    "title": "José R. Ferrer Paris",
+    "section": "Curious",
+    "text": "Curious"
+  },
+  {
+    "objectID": "index.html#conservation",
+    "href": "index.html#conservation",
+    "title": "José R. Ferrer Paris",
+    "section": "Conservation",
+    "text": "Conservation"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "./jrfep",
+    "section": "",
+    "text": "I also share tips and tricks in my blog spatial one and my explicado website.\nhttps://jrfep.quarto.pub/ecosystems-of-the-world/"
+  }
+]

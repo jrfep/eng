@@ -1,0 +1,26 @@
+---
+title: "This is me!"
+---
+
+My research projects apply information technology methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. 
+Such data feed digital knowledge bases that are fundamental for policy and management decisions. 
+
+They inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. 
+Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results.
+
+Since my appointment at UNSW I have **co-developed the Global Ecosystem Typology** as a new function-based approach to understand and classify all terrestrial, freshwater, marine and subterranean ecosystems on Earth. 
+This typology is having significant impact on policy and practice of conservation around the world, including for identifying representativeness of current ecosystems in reserves to natural capital accounting. 
+Application of this framework helps to **understand changes in the distribution and condition of ecosystems** that are essential for conservation of ecosystem services and nature's contribution to human wellbeing. 
+My research is leading to collaborations with international research and practitioner networks **leading development of ecosystem specific indicators and analytical methods**. These indicators support risk assessments of ecosystems, condition measurement and quantitative synthesis of ecosystem data to **inform national and global reporting on conservation and sustainable development**. 
+
+:::{.aside}
+Visit the [Global Ecosystems](https://global-ecosystems.org) webapp
+:::
+
+In my current position I aim to improve ecosystem management and restoration capacity by **applying these frameworks in an Australian context to track biodiversity outcomes** effectively. This work spans terrestrial and freshwater ecosystems across **landscapes managed by public, private and indigenous organisations** in New South Wales.
+
+I am also working on management of threats to ecosystems. Bush fire regimes have proved to be a critical aspect of terrestrial ecosystem management in recent years, yet the knowledge base is fragmented and dispersed with limited accessibility to fire managers and researchers. To address this problem, I am **leading the development of a Fire ecology traits database for plants**, which will **synthesize existing knowledge** on the diversity of the responses of plant species to fires events. This new digital platform is founded on plant demographic processes and links spatiotemporally explicit observations on plant response to fire events and environmental conditions. The database will improve **capacity to predict how fire regimes structure plant communities** and **inform fire management strategies** for biodiversity conservation.
+
+:::{.aside}
+Visit the [Fire Ecology Traits for Plants](http://fireecologyplants.net) webapp
+:::

@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+
+website:
+  title: "./jrfep"
+  repo-url: https://github.com/jrfep/eng
+  repo-branch: mostly-harmless
+  repo-actions: [edit, issue]
+  navbar:
+    title: "J.R. Ferrer-Paris"
+    type: inverse
+    left:
+      - text: "Here we are"
+        icon: eyeglasses
+    right:
+      - icon: folder-symlink
+        menu:
+        - text: "Overview"
+          icon: projector
+          href: "/"
+        - text: "cambiar a Español"
+          icon: braces-asterisk
+          href: "/esp"
+        - text: "How to..."
+          icon: question
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+lang: en
