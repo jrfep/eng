@@ -14,10 +14,11 @@ website:
     title: "J.R. Ferrer-Paris"
     type: inverse
     left:
+      - CV.qmd
+    right:
       - text: "Read more here"
         icon: eyeglasses
         href: links.qmd
-    right:
       - icon: folder-symlink
         menu:
         - text: "Overview"

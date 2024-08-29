@@ -1,0 +1,246 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+  pdf:
+    author: "José R. Ferrer-Paris"
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+Unit 3 104 Wentworth Street
+
+2031 Randwick
+
+Mobile: 0431531420
+
+Email: jr.ferrer.paris@gmail.com
+:::
+
+## APPOINTMENTS AND EXPERIENCE
+
+### Senior Research Fellow / Senior Lecturer
+
+***University of New South Wales***, Sydney [Oct 2022 -- Present]{.cvdate}
+
+- Tracking ecosystems and adapting management to change in New South Wales, Australia.
+- Impacts of Red List of Ecosystems in Africa.
+- Red List of Ecosystem assessment of tropical glaciers.
+- Editor of the Red List of Ecosystems guidelines (v2.0)
+- Member of the UNSW Data Science Hub
+
+### Senior Research Fellow
+
+***University of New South Wales***, Sydney [Jul 2019 -- Oct 2022]{.cvdate}
+
+- Development of the IUCN Global Ecosystem typology, leading the preparation and management of digital resources (code, datasets, database and maps).
+- Development of the Fire Ecology Traits for Plants database for fire research and management.
+- Red List of Ecosystems assessments in Myanmar, Chile and Venezuela
+- Member of the UNSW Data Science Hub
+
+### Adjunct researcher 
+
+***Provita*** (NGO), Venezuela [2016 -- Oct 2018]{.cvdate}
+
+- Lead the first continental Red List of Ecosystems assessment of the forest of the Americas.
+- Development of the Red List of Ecosystems assessments database
+
+### Research Fellow
+
+***Instituto Venezolano de Investigaciones Científicas***, Venezuela [ 2014 -- Oct 2018]{.cvdate}
+
+- Head of the Spatial Ecology Lab at the Centre for Botanical and Agroforestry Studies.
+- Management of the Herbarium and the Invertebrate collection 
+- Assessment of conservation status of more than 30 invertebrate species for the Venezuelan Red Book of Threatened Animals.
+
+### Post doctoral Fellow
+
+***University of Cape Town*** and ***South African National Biodiversity Institue***, South Africa [Oct 2011 -- Mar 2013]{.cvdate}
+
+***Instituto Venezolano de Investigaciones Cientifcas***, Venezuela [Jan 2011 -- Mar 2014]{.cvdate}
+
+- Linking biodiversity databases for research on macroecological patterns in biotic interactions between butterflies and their hostplants.
+
+### Project manager
+
+Biodiversity Research Unit, ***Instituto Venezolano de Investigaciones Cientifcas***, Venezuela [Jan 2007 -- Mar 2010]{.cvdate}
+
+- Biodiversity informatics, collection management and database management. 
+- Project leader of the Neotropical Biodiversity Mapping Initiative (NeoMapas).
+
+## QUALIFICATIONS
+
+**PhD in Ecology** <br> *Instituto Venezolano de Investigaciones Científicas*, Venezuela [*Sep 2001 --- Feb 2009*]{.cvdate}
+
+**Diplom-Biologe**<br> *Universität Bayreuth*, Germany [*1995 --- 2001*]{.cvdate}
+
+## PROFESSIONAL ACTIVITIES
+
+Member of the **International Union for Conservation of Nature**'s Commission on Ecosystem Management:
+
+- Member of the **Red List of Ecosystem (RLE) Thematic group**
+- Member of the **RLE Database Committee**
+- Member of the **Global Ecosystem Typology committee**
+- Contributing to the **Green Status of Ecosystem working group**
+
+Member of the **Society for Conservation Biology** (Washington D.C., USA), **Ecological Society of Australia** and **Sociedad Venezolana de Ecología**.
+
+::: {.no-print}
+
+## PRIZES AND AWARDS 
+
+- Postdoctoral Fellowship Threatened Species Programme, South African National Biodiversity Institute (SANBI), Cape Town, South Africa.
+- 2004 Order “José Félix Ribas”, 2nd Class in the category Science and Innovation, Ministerio de Salud y Desarrollo Social, Caracas, Venezuela.
+
+:::
+
+## RESEARCH INTERESTS{style="page-break-before: always"}
+
+I apply **functional ecology** approaches to understand and classify terrestrial, freshwater, marine and subterranean ecosystems. 
+
+I collaborate with international research and practitioner networks **leading the development of ecosystem specific indicators and analytical methods**. 
+
+These indicators support risk assessments of ecosystems, condition measurement and quantitative synthesis of ecosystem data to **inform national and global reporting on biodiversity conservation and sustainable development**.
+
+
+## RESEARCH OUTPUTS
+
+**August 2024**:
+
+- 40 peer reviewed publications in scientific journals, two books, one book chapter and one article in conference proceedings,
+  - [Google Scholar](https://scholar.google.es/citations?user=A2Thq5UAAAAJ&hl=en) (since 2019): H-index = 16 (13), i10-index = 20 (16); citations = 1135 (918)
+  - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6507728759): H-index = 13, 36 documents, 640 citations by 573 documents, 
+  - [Web of Science](https://www.webofscience.com/wos/author/record/M-3785-2015): H-index = 12, 34 publications, 463 citations,  31 verified peer reviews
+
+- Contributions to open and reproducible science including pre-prints, reports, datasets, code and software in open access research repositories,
+  - [DataCite Commons](https://commons.datacite.org/orcid.org/0000-0002-9554-3395): 379 works with 365 citations, 94% with open access licenses
+  - [Figshare](https://figshare.com/authors/Jos_R_Ferrer_Paris/592994): 63 contributions, 53991 item views, 21295 item downloads,
+  - [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Ferrer-Paris%2C%20Jose%20R.%22&l=list&p=1&s=10&sort=bestmatch): 108 contributions, [OSF](https://osf.io/7q5ny/): 9 public projects, [GitHub](https://github.com/jrfep): 99 repositories
+
+## RESEARCH GRANTS
+
+IUCN, International Union for Conservation of Nature  [2024]{.cvdate}
+
+- Chief investigator, 30,000 CHF (*approved*)
+
+NSW Applied Bushfire Science Program [2022]{.cvdate}
+
+- Chief investigator, 49,000 AUD
+
+IUCN, International Union for Conservation of Nature and Natural Resources, Eastern and Southern Africa Regional Office (ESARO) / International Contract [2021]{.cvdate}
+
+- Chief investigator, 23,435 USD
+
+University of Eastern Finland / International Contract [2020]{.cvdate}
+
+- Partner investigator, 18,000 USD
+
+Encyclopedia of Life. Washington, USA. [2013]{.cvdate}
+
+- EOL Rubenstein Research Fellows award, 30,000 USD 
+
+
+## HIGHER DEGREE RESEARCH STUDENT SUPERVISION{style="page-break-before: always"}
+
+Instituto Venezolano de Investigaciones Científicas, Venezuela:
+
+- Izabela Stachowicz, PhD, Primary Supervision [2014-2018]{.cvdate}
+- Arianna Thomas Cabianca, MSc (Masters by research), Joint Supervision [2011-2014]{.cvdate}
+
+## EDUCATION AND OUTREACH
+
+**uDASH Year 10 Work Experience** [2022]{.cvdate}
+
+- Outreach activity of the UNSW Data Science Hub
+- work experience program for Year 10 students
+- Led development and delivery 
+- Design of the week activities combining lectures, invited speakers, guided hands-on coding work 
+- Introduction to R and posit cloud
+- Program replicated in 2023 and 2024
+
+Workshop **Red List of Ecosystems in Africa**, Kigali, Rwanda [2022]{.cvdate}
+
+- Co-led organisation 
+- Topic: *Red List of Ecosystems in Africa, supporting policy, practice and planning*
+- Event at the IUCN Africa Protected Area Congress, APAC
+
+**Biostatistics course**, Universidad Nacional de Asunción, Paraguay [2019]{.cvdate}
+
+- Invited lecturer
+- Postgraduate program “Maestría en Ciencias Biológicas; Mención Biodiversidad y Sistemática” 
+- Led development and delivery
+
+**Red List training workshop**, Abu Dhabi, United Arab Emirates [2018]{.cvdate}
+
+- Red List of Threatened Species and Red List of Ecosystem training workshop
+- Equal contribution to convening and delivering
+- First joint workshop on Red List methods for species and ecosystems
+
+**Red List of Ecosystem training workshop**, Georgetown, Guyana [2018]{.cvdate}
+
+- Invited instructor
+
+Symposium **An Insight into the Orinoco Mining Arc**, Trinidad & Tobago [2018]{.cvdate}
+
+- *An Insight into the Orinoco Mining Arc: its implications for Venezuela and the eastern Caribbean*
+- Co-led organisation 
+- Inaugural Latin American and Caribbean Congress on Conservation Biology. 
+
+**Red List of Ecosystem training workshop** Asunción, Paraguay [2017]{.cvdate}
+
+Workshop *Innovative Tools and Approaches for Ecosystem Risk Assessment in Latin America* and Symposium *Red Lists of Ecosystems in Latin America from National Efforts to a Regional Strategy*, Cartagena, Colombia [2017]{.cvdate}
+
+- Co-led organisation 
+- Part of the scientific program of the 28th International Congress for Conservation Biology 
+
+**Capacity-building program for species conservation**, Venezuela [2014-2017]{.cvdate}
+
+- Design and testing of a replicable, scalable capacity-building model
+- Supporting role in design, equal contribution in delivery and supervison 
+- Inter-institutional courses leveraged on the research facilities and infrastructure provided by the host institution 
+- provided training to more than 200 students, professionals, technicians and governmental agency officials involved in the management of biological diversity. 
+
+**NeoMaps: biodiversity monitoring**, Venezuela [2006, 2009, 2010]{.cvdate}
+
+- Immersive international field courses with students, volunteers and lecturers from Latin America, Spain, USA, France and UK
+- Different roles: coordinator of field work and lab activities (2006), design and convening (2009, 2010)
+- Program included training and induction, theory, immersive fieldwork and laboratory/collection management work
+
+
+::: {.no-print}
+
+## INVITED PRESENTATIONS AND WORKSHOPS
+
+- Invited seminar: [Applications of the IUCN Red List of Ecosystems in research and conservation](https://jrfep.quarto.pub/iucn-rle-in-research-and-conservation) Open Seminar of the Mammal Research Institute, Polish Academy of Science,  Białowieża Poland (February 2024)
+- Invited virtual workshop: [Geospatial data in R](https://rpubs.com/jrfep/geospatial-workshop-intro-12-2023) for the Macquarie University R Users Group. (December 2023)
+- Invited seminar: [TIPOLOGÍA GLOBAL DE ECOSISTEMAS DE LA UICN: Un marco de clasificación integral para los ecosistemas de la tierra, integrando sus características funcionales y de composición.](https://rpubs.com/jrfep/GET-seminario-virtual) Virtual seminar of the IUCN Commission for Ecosystem Management (Latin America and Caribbean section). 2023	
+- Invited Fireside chat about UNSW CodeRs at the ARDC Digital Research Skills Summit 2023, Sydney. 2023	
+- Invited speaker at the virtual session: “The IUCN Red List of Ecosystems: opportunities and challenges to support the post 2020 framework and the Sustainable Development Goals in Latin America”. Science Summit of the 77 United Nations General Assembly. 2022	
+- Invited speaker at the virtual session: “Science-based targets for Ecosystems in the post-2020 framework for Biodiversity”. IUCN World Conservation Congress, Marseille, France. 2021	
+- Invited speaker at the “VII Jornadas Ambientales” 2018	
+- Invited workshop on “Introduction to R programming for life sciences”, Universidad Espíritu Santo, Guayaquil, Ecuador. 2018	
+-	Visiting instructor for Workshop “Introduction to multivariate analysis for the life sciences”. Universidad del Atlántico Colombia. 2014
+- Invited Presentation at the 4th Tropical Ecology Assessment and Monitoring Network (TEAM) meeting. Dar es Salaam, Tanzania. 2011	
+
+
+:::
+
+::: {.print-only}
+## REFERENCES
+
+Prof. David Keith
+
+- Phone: 02 9385 2111 
+- Email: david.keith@unsw.edu.au 
+- Centre for Ecosystem Science, University of New South Wales, Sydney.
+
+Prof. Richard Kingsford
+
+- Phone: 02 9385 3442 
+- Email: richard.kingsford@unsw.edu.au 
+- Centre for Ecosystem Science, University of New South Wales, Sydney.
+
+:::
