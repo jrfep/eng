@@ -2,7 +2,8 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "bibtex/"
+    - "bibtex"
+    - "images"
 
 execute:
   freeze: auto

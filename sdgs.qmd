@@ -4,8 +4,8 @@ subtitle: "The global goals"
 listing: 
   id: sdg-listing
   contents: sdgs
-  type: table
-  fields: [subtitle, title]
+  type: grid
+  fields: [subtitle, title, image]
   field-display-names:
     title: "Descriptions"
     subtitle: "Targets"

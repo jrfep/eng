@@ -8,4 +8,6 @@ csl: ../bibtex/my.csl
 
 > By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
 
+![](../images/GOAL_15_TARGET_15.1.svg){width=150}
+
 [@Ferrer-Paris_2019_RLE_Forests]

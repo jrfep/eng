@@ -1,14 +1,18 @@
 ---
-title: "CONSERVE AND RESTORE TERRESTRIAL AND FRESHWATER ECOSYSTEMS"
+title: "End deforestation and restore degraded forests"
 subtitle: "Target 15.2"
 bibliography: 
   - ../bibtex/peer-review.bibtex
 csl: ../bibtex/my.csl
-image: https://globalgoalscms.co.uk/wp-content/uploads/2021/09/globalgoals_2d7c3a6c-410f-4559-9653-b0f67d6b8184_goal_15.2_rgb_ng.svg
+image: ../images/GOAL_15_TARGET_15.2.svg
 ---
 
-https://www.globalgoals.org/goals/15-life-on-land/
+:::{.aside}
+![](../images/GOAL_15_TARGET_15.2.svg){width=150}
+:::
 
-> By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
+[SDG 15: Life on Land](https://www.globalgoals.org/goals/15-life-on-land/)
 
-[@Ferrer-Paris_2019_RLE_Forests]
+> By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.
+
+My contributions [@Ferrer-Paris_2019_RLE_Forests].
