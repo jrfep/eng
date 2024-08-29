@@ -1,0 +1,14 @@
+---
+title: "SDG"
+subtitle: "The global goals"
+listing: 
+  id: sdg-listing
+  contents: sdgs
+  type: table
+  fields: [subtitle, title]
+  field-display-names:
+    title: "Descriptions"
+    subtitle: "Targets"
+  sort:
+    - "Targets"
+---

@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "bibtex/"
 
 execute:
   freeze: auto
@@ -14,6 +16,8 @@ website:
     title: "J.R. Ferrer-Paris"
     type: inverse
     left:
+      - my-publications.qmd
+      - sdgs.qmd
       - text: "Read more here"
         icon: eyeglasses
         href: links.qmd
