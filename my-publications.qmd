@@ -1,0 +1,15 @@
+---
+title: "Peer reviewed publications"
+date: "08 Aug 2024"
+date-modified: "28 Aug 2024"
+bibliography: 
+  - bibtex/peer-review.bibtex
+csl: bibtex/my.csl
+nocite: |
+  @*
+---
+
+This is my list of peer-reviewed publications, including journal articles, book chapters and edited books.
+
+::: {#refs}
+:::

@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "bibtex"
+    - "images"
 
 execute:
   freeze: auto
@@ -15,6 +18,8 @@ website:
     type: inverse
     left:
       - CV.qmd
+      - my-publications.qmd
+      - sdgs.qmd
     right:
       - text: "Read more here"
         icon: eyeglasses

@@ -1,0 +1,18 @@
+---
+title: "End deforestation and restore degraded forests"
+subtitle: "Target 15.2"
+bibliography: 
+  - ../bibtex/peer-review.bibtex
+csl: ../bibtex/my.csl
+image: ../images/GOAL_15_TARGET_15.2.svg
+---
+
+:::{.aside}
+![](../images/GOAL_15_TARGET_15.2.svg){width=150}
+:::
+
+[SDG 15: Life on Land](https://www.globalgoals.org/goals/15-life-on-land/)
+
+> By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.
+
+My contributions [@Ferrer-Paris_2019_RLE_Forests].
