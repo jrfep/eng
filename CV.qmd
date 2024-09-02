@@ -11,12 +11,6 @@ format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
-Unit 3 104 Wentworth Street
-
-2031 Randwick
-
-Mobile: 0431531420
-
 Email: jr.ferrer.paris@gmail.com
 :::
 
@@ -254,16 +248,6 @@ Workshop *Innovative Tools and Approaches for Ecosystem Risk Assessment in Latin
 ::: {.print-only}
 ## REFERENCES
 
-Prof. David Keith
-
-- Phone: 02 9385 2111 
-- Email: david.keith@unsw.edu.au 
-- Centre for Ecosystem Science, University of New South Wales, Sydney.
-
-Prof. Richard Kingsford
-
-- Phone: 02 9385 3442 
-- Email: richard.kingsford@unsw.edu.au 
-- Centre for Ecosystem Science, University of New South Wales, Sydney.
+Available upon request
 
 :::

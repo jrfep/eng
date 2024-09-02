@@ -1,59 +1,171 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "This is me!",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "My research projects apply information technology methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions.\nThey inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results.\nSince my appointment at UNSW I have co-developed the Global Ecosystem Typology as a new function-based approach to understand and classify all terrestrial, freshwater, marine and subterranean ecosystems on Earth. This typology is having significant impact on policy and practice of conservation around the world, including for identifying representativeness of current ecosystems in reserves to natural capital accounting. Application of this framework helps to understand changes in the distribution and condition of ecosystems that are essential for conservation of ecosystem services and nature’s contribution to human wellbeing. My research is leading to collaborations with international research and practitioner networks leading development of ecosystem specific indicators and analytical methods. These indicators support risk assessments of ecosystems, condition measurement and quantitative synthesis of ecosystem data to inform national and global reporting on conservation and sustainable development.\n\n\nVisit the Global Ecosystems webapp\nIn my current position I aim to improve ecosystem management and restoration capacity by applying these frameworks in an Australian context to track biodiversity outcomes effectively. This work spans terrestrial and freshwater ecosystems across landscapes managed by public, private and indigenous organisations in New South Wales.\nI am also working on management of threats to ecosystems. Bush fire regimes have proved to be a critical aspect of terrestrial ecosystem management in recent years, yet the knowledge base is fragmented and dispersed with limited accessibility to fire managers and researchers. To address this problem, I am leading the development of a Fire ecology traits database for plants, which will synthesize existing knowledge on the diversity of the responses of plant species to fires events. This new digital platform is founded on plant demographic processes and links spatiotemporally explicit observations on plant response to fire events and environmental conditions. The database will improve capacity to predict how fire regimes structure plant communities and inform fire management strategies for biodiversity conservation.\n\n\n\n\n\nVisit the Fire Ecology Traits for Plants webapp"
+    "text": "Email: jr.ferrer.paris@gmail.com"
   },
   {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "José R. Ferrer Paris",
+    "objectID": "CV.html#appointments-and-experience",
+    "href": "CV.html#appointments-and-experience",
+    "title": "Curriculum Vitae",
+    "section": "APPOINTMENTS AND EXPERIENCE",
+    "text": "APPOINTMENTS AND EXPERIENCE\n\nSenior Research Fellow / Senior Lecturer\nUniversity of New South Wales, Sydney Oct 2022 – Present\n\nTracking ecosystems and adapting management to change in New South Wales, Australia.\nImpacts of Red List of Ecosystems in Africa.\nRed List of Ecosystem assessment of tropical glaciers.\nEditor of the Red List of Ecosystems guidelines (v2.0)\nMember of the UNSW Data Science Hub\n\n\n\nSenior Research Fellow\nUniversity of New South Wales, Sydney Jul 2019 – Oct 2022\n\nDevelopment of the IUCN Global Ecosystem typology, leading the preparation and management of digital resources (code, datasets, database and maps).\nDevelopment of the Fire Ecology Traits for Plants database for fire research and management.\nRed List of Ecosystems assessments in Myanmar, Chile and Venezuela\nMember of the UNSW Data Science Hub\n\n\n\nAdjunct researcher\nProvita (NGO), Venezuela 2016 – Oct 2018\n\nLead the first continental Red List of Ecosystems assessment of the forest of the Americas.\nDevelopment of the Red List of Ecosystems assessments database\n\n\n\nResearch Fellow\nInstituto Venezolano de Investigaciones Científicas, Venezuela 2014 – Oct 2018\n\nHead of the Spatial Ecology Lab at the Centre for Botanical and Agroforestry Studies.\nManagement of the Herbarium and the Invertebrate collection\nAssessment of conservation status of more than 30 invertebrate species for the Venezuelan Red Book of Threatened Animals.\n\n\n\nPost doctoral Fellow\nUniversity of Cape Town and South African National Biodiversity Institue, South Africa Oct 2011 – Mar 2013\nInstituto Venezolano de Investigaciones Cientifcas, Venezuela Jan 2011 – Mar 2014\n\nLinking biodiversity databases for research on macroecological patterns in biotic interactions between butterflies and their hostplants.\n\n\n\nProject manager\nBiodiversity Research Unit, Instituto Venezolano de Investigaciones Cientifcas, Venezuela Jan 2007 – Mar 2010\n\nBiodiversity informatics, collection management and database management.\nProject leader of the Neotropical Biodiversity Mapping Initiative (NeoMapas)."
+  },
+  {
+    "objectID": "CV.html#qualifications",
+    "href": "CV.html#qualifications",
+    "title": "Curriculum Vitae",
+    "section": "QUALIFICATIONS",
+    "text": "QUALIFICATIONS\nPhD in Ecology  Instituto Venezolano de Investigaciones Científicas, Venezuela Sep 2001 — Feb 2009\nDiplom-Biologe Universität Bayreuth, Germany 1995 — 2001"
+  },
+  {
+    "objectID": "CV.html#professional-activities",
+    "href": "CV.html#professional-activities",
+    "title": "Curriculum Vitae",
+    "section": "PROFESSIONAL ACTIVITIES",
+    "text": "PROFESSIONAL ACTIVITIES\nMember of the International Union for Conservation of Nature’s Commission on Ecosystem Management:\n\nMember of the Red List of Ecosystem (RLE) Thematic group\nMember of the RLE Database Committee\nMember of the Global Ecosystem Typology committee\nContributing to the Green Status of Ecosystem working group\n\nMember of the Society for Conservation Biology (Washington D.C., USA), Ecological Society of Australia and Sociedad Venezolana de Ecología."
+  },
+  {
+    "objectID": "CV.html#prizes-and-awards",
+    "href": "CV.html#prizes-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "PRIZES AND AWARDS",
+    "text": "PRIZES AND AWARDS\n\nPostdoctoral Fellowship Threatened Species Programme, South African National Biodiversity Institute (SANBI), Cape Town, South Africa.\n2004 Order “José Félix Ribas”, 2nd Class in the category Science and Innovation, Ministerio de Salud y Desarrollo Social, Caracas, Venezuela."
+  },
+  {
+    "objectID": "CV.html#research-interests",
+    "href": "CV.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "RESEARCH INTERESTS",
+    "text": "RESEARCH INTERESTS\nI apply function-based approaches to understand and classify terrestrial, freshwater, marine and subterranean ecosystems.\nI collaborate with international research and practitioner networks leading the development of ecosystem specific indicators and analytical methods.\nThese indicators support risk assessments of ecosystems, condition measurement and quantitative synthesis of ecosystem data to inform national and global reporting on biodiversity conservation and sustainable development."
+  },
+  {
+    "objectID": "CV.html#research-outputs",
+    "href": "CV.html#research-outputs",
+    "title": "Curriculum Vitae",
+    "section": "RESEARCH OUTPUTS",
+    "text": "RESEARCH OUTPUTS\nAugust 2024:\n\n40 peer reviewed publications in scientific journals, two books, one book chapter and one article in conference proceedings,\n\nGoogle Scholar (since 2019): H-index = 16 (13), i10-index = 20 (16); citations = 1135 (918)\nScopus: H-index = 13, 36 documents, 640 citations by 573 documents,\nWeb of Science: H-index = 12, 34 publications, 463 citations, 31 verified peer reviews\n\nContributions to open and reproducible science including pre-prints, reports, datasets, code and software in open access research repositories,\n\nDataCite Commons: 379 works with 365 citations, 94% with open access licenses\nFigshare: 63 contributions, 53991 item views, 21295 item downloads,\nZenodo: 108 contributions, OSF: 9 public projects, GitHub: 99 repositories"
+  },
+  {
+    "objectID": "CV.html#research-grants",
+    "href": "CV.html#research-grants",
+    "title": "Curriculum Vitae",
+    "section": "RESEARCH GRANTS",
+    "text": "RESEARCH GRANTS\nIUCN, International Union for Conservation of Nature 2024\n\nChief investigator, 30,000 CHF (approved)\n\nNSW Applied Bushfire Science Program 2022\n\nChief investigator, 49,000 AUD\n\nIUCN, International Union for Conservation of Nature and Natural Resources, Eastern and Southern Africa Regional Office (ESARO) / International Contract 2021\n\nChief investigator, 23,435 USD\n\nUniversity of Eastern Finland / International Contract 2020\n\nPartner investigator, 18,000 USD\n\nEncyclopedia of Life. Washington, USA. 2013\n\nEOL Rubenstein Research Fellows award, 30,000 USD"
+  },
+  {
+    "objectID": "CV.html#higher-degree-research-student-supervision",
+    "href": "CV.html#higher-degree-research-student-supervision",
+    "title": "Curriculum Vitae",
+    "section": "HIGHER DEGREE RESEARCH STUDENT SUPERVISION",
+    "text": "HIGHER DEGREE RESEARCH STUDENT SUPERVISION\nInstituto Venezolano de Investigaciones Científicas, Venezuela:\n\nIzabela Stachowicz, PhD, Primary Supervision 2014-2018\nArianna Thomas Cabianca, MSc (Masters by research), Joint Supervision 2011-2014"
+  },
+  {
+    "objectID": "CV.html#education-capacity-building-and-outreach",
+    "href": "CV.html#education-capacity-building-and-outreach",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION, CAPACITY BUILDING AND OUTREACH",
+    "text": "EDUCATION, CAPACITY BUILDING AND OUTREACH\nSkills seminard for HDR students 2023-2024\n\nContributed sessions on reproducibility of research, sharing of research data, and best practices for coding in R.\n\nuDASH Year 10 Work Experience 2022-2024\n\nOutreach activity of the UNSW Data Science Hub\nWork experience program for Year 10 students\nLed development and delivery in 2023\nDesign of the week activities combining lectures, invited speakers, guided hands-on coding work\nIntroduction to R and posit cloud\n\nCarpentries Instructor 2022-2024\n\nCertified Carpentries Instructor\nVolunteer instructor for Data carpentry and Software carpentry workshops\n\nUNSW codeRs 2021-2024\n\nR coding community run by students and staff\nFounder and Steering Committee member\nDrop-in help sessions for R coding and statistics\nVirtual, in-person and hybrid workshops\n\nRestech drop-in help sessions 2021-2023\n\nMentoring of staff and students\nCoding help for R and Python users\nUsing High Performance Computers for Research\nAccessing Research Technology Services on campus\n\nWorkshop Red List of Ecosystems in Africa, Kigali, Rwanda 2022\n\nCo-led organisation\nTopic: Red List of Ecosystems in Africa, supporting policy, practice and planning\nEvent at the IUCN Africa Protected Area Congress, APAC\n\nBiostatistics course, Universidad Nacional de Asunción, Paraguay 2019\n\nInvited lecturer\nPostgraduate program “Maestría en Ciencias Biológicas; Mención Biodiversidad y Sistemática”\nLed development and delivery\n\nRed List training workshop, Abu Dhabi, United Arab Emirates 2018\n\nRed List of Threatened Species and Red List of Ecosystem training workshop\nEqual contribution to convening and delivering\nFirst joint workshop on Red List methods for species and ecosystems\n\nRed List of Ecosystem training workshop, Georgetown, Guyana 2018\n\nInvited instructor\n\nSymposium An Insight into the Orinoco Mining Arc, Trinidad & Tobago 2018\n\nAn Insight into the Orinoco Mining Arc: its implications for Venezuela and the eastern Caribbean\nCo-led organisation\nInaugural Latin American and Caribbean Congress on Conservation Biology.\n\nRed List of Ecosystem training workshop Asunción, Paraguay 2017\nWorkshop Innovative Tools and Approaches for Ecosystem Risk Assessment in Latin America and Symposium Red Lists of Ecosystems in Latin America from National Efforts to a Regional Strategy, Cartagena, Colombia 2017\n\nCo-led organisation\nPart of the scientific program of the 28th International Congress for Conservation Biology\n\nCapacity-building program for species conservation, Venezuela 2014-2017\n\nDesign and testing of a replicable, scalable capacity-building model\nSupporting role in design, equal contribution in delivery and supervison\nInter-institutional courses leveraged on the research facilities and infrastructure provided by the host institution\nprovided training to more than 200 students, professionals, technicians and governmental agency officials involved in the management of biological diversity.\n\nNeoMaps: biodiversity monitoring, Venezuela 2006, 2009, 2010\n\nImmersive international field courses with students, volunteers and lecturers from Latin America, Spain, USA, France and UK\nDifferent roles: coordinator of field work and lab activities (2006), design and convening (2009, 2010)\nProgram included training and induction, theory, immersive fieldwork and laboratory/collection management work"
+  },
+  {
+    "objectID": "CV.html#invited-presentations-and-workshops",
+    "href": "CV.html#invited-presentations-and-workshops",
+    "title": "Curriculum Vitae",
+    "section": "INVITED PRESENTATIONS AND WORKSHOPS",
+    "text": "INVITED PRESENTATIONS AND WORKSHOPS\n\nInvited seminar: Applications of the IUCN Red List of Ecosystems in research and conservation Open Seminar of the Mammal Research Institute, Polish Academy of Science, Białowieża Poland (February 2024)\nInvited virtual workshop: Geospatial data in R for the Macquarie University R Users Group. (December 2023)\nInvited seminar: TIPOLOGÍA GLOBAL DE ECOSISTEMAS DE LA UICN: Un marco de clasificación integral para los ecosistemas de la tierra, integrando sus características funcionales y de composición. Virtual seminar of the IUCN Commission for Ecosystem Management (Latin America and Caribbean section). 2023\n\nInvited Fireside chat about UNSW CodeRs at the ARDC Digital Research Skills Summit 2023, Sydney. 2023\nInvited speaker at the virtual session: “The IUCN Red List of Ecosystems: opportunities and challenges to support the post 2020 framework and the Sustainable Development Goals in Latin America”. Science Summit of the 77 United Nations General Assembly. 2022\nInvited speaker at the virtual session: “Science-based targets for Ecosystems in the post-2020 framework for Biodiversity”. IUCN World Conservation Congress, Marseille, France. 2021\nInvited speaker at the “VII Jornadas Ambientales” 2018\n\nInvited workshop on “Introduction to R programming for life sciences”, Universidad Espíritu Santo, Guayaquil, Ecuador. 2018\n\nVisiting instructor for Workshop “Introduction to multivariate analysis for the life sciences”. Universidad del Atlántico Colombia. 2014\nInvited Presentation at the 4th Tropical Ecology Assessment and Monitoring Network (TEAM) meeting. Dar es Salaam, Tanzania. 2011"
+  },
+  {
+    "objectID": "CV.html#references",
+    "href": "CV.html#references",
+    "title": "Curriculum Vitae",
+    "section": "REFERENCES",
+    "text": "REFERENCES\nAvailable upon request"
+  },
+  {
+    "objectID": "sdgs/target-15-8.html",
+    "href": "sdgs/target-15-8.html",
+    "title": "./jrfep",
     "section": "",
-    "text": "I develop methods and frameworks to inform ecosystem science and the conservation of biological diversity. My research is influencing global and national policy on conservation. Read more in the following slides.\n\n\n\nI learn and teach by sharing experiences, challenges, solutions and insights. Jump to the education slide, or explore my educatorial webpage for a collection of examples and resources. I also share tips and tricks in my blog spatial one and my explicado website.\n\n\n\nI invite you to browse my datasets, code, projects, biodiversity observations and more."
+    "text": "- 15.8 By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species \n    - 15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species   C150801"
   },
   {
-    "objectID": "index.html#datasets",
-    "href": "index.html#datasets",
-    "title": "José R. Ferrer Paris",
-    "section": "Datasets",
-    "text": "Datasets"
+    "objectID": "sdgs/target-2-4.html",
+    "href": "sdgs/target-2-4.html",
+    "title": "Ensure sustainable food production systems",
+    "section": "",
+    "text": "Target 2.4: By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality"
   },
   {
-    "objectID": "index.html#code",
-    "href": "index.html#code",
-    "title": "José R. Ferrer Paris",
-    "section": "Code",
-    "text": "Code"
+    "objectID": "sdgs/target-2-4.html#dung-beetles-in-pasture-lands",
+    "href": "sdgs/target-2-4.html#dung-beetles-in-pasture-lands",
+    "title": "Ensure sustainable food production systems",
+    "section": "Dung beetles in pasture lands",
+    "text": "Dung beetles in pasture lands\nIn our work (Noriega et al. 2023), we focus on dung removal by dung beetles and its impact on nutrient cycling in pasturelands. The study involves field experiments replicated in 38 pastures around the world. International cooperation in scientific research was a key to address this important question at a global scale.\nDiverse dung beetle communities enhance nutrient cycling in pasturelands, which can improve soil fertility and productivity. This supports sustainable agricultural practices by maintaining ecosystem health, which are key aspects of Target 2.4.\nThe study highlights the importance of maintaining biodiversity and ecosystem services even in intensified farming systems. This aligns with promoting sustainable agricultural practices that minimize environmental impact.\nProtecting dung beetle species helps maintain the balance and functionality of terrestrial ecosystems."
   },
   {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "José R. Ferrer Paris",
-    "section": "Projects",
-    "text": "Projects"
+    "objectID": "sdgs/target-14-5.html",
+    "href": "sdgs/target-14-5.html",
+    "title": "./jrfep",
+    "section": "",
+    "text": "Goal 14: Conserve and sustainably use the oceans, seas and marine resources for sustainable development\n\n14.5 By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information\n\n14.5.1 Coverage of protected areas in relation to marine areas C140501"
   },
   {
-    "objectID": "index.html#biodiversity",
-    "href": "index.html#biodiversity",
-    "title": "José R. Ferrer Paris",
-    "section": "Biodiversity",
-    "text": "Biodiversity\nhttps://jrfep.quarto.pub/ecosystems-of-the-world/"
+    "objectID": "sdgs/target-15-7.html",
+    "href": "sdgs/target-15-7.html",
+    "title": "./jrfep",
+    "section": "",
+    "text": "- 15.7 Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products   \n    - 15.7.1 Proportion of traded wildlife that was poached or illicitly trafficked C200206"
   },
   {
-    "objectID": "index.html#curious",
-    "href": "index.html#curious",
-    "title": "José R. Ferrer Paris",
-    "section": "Curious",
-    "text": "Curious"
+    "objectID": "sdgs/target-15-5.html",
+    "href": "sdgs/target-15-5.html",
+    "title": "Reduce the degradation of natural habitats",
+    "section": "",
+    "text": "Target 15.5: Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species\nSDG target 15.5’s call for urgent and significant action to protect threatened species."
   },
   {
-    "objectID": "index.html#conservation",
-    "href": "index.html#conservation",
-    "title": "José R. Ferrer Paris",
-    "section": "Conservation",
-    "text": "Conservation"
+    "objectID": "sdgs/target-15-5.html#understanding-mechanisms-of-decline",
+    "href": "sdgs/target-15-5.html#understanding-mechanisms-of-decline",
+    "title": "Reduce the degradation of natural habitats",
+    "section": "Understanding Mechanisms of Decline",
+    "text": "Understanding Mechanisms of Decline\nIn the study by Jędrzejewski et al. (2017). we identified the factors that contribute to jaguar extirpations. Our study provides critical insights into the mechanisms behind biodiversity loss. This understanding is essential for developing effective conservation strategies.\nThe study highlights the dual impact of human activities and ecosystem productivity on jaguar populations. This nuanced understanding helps in creating targeted interventions that address both anthropogenic pressures and environmental conditions.\nThe study’s finding that human population density alone cannot explain jaguar declines suggests that conservation efforts must be multifaceted, addressing both human and environmental factors. This holistic approach is crucial for achieving sustainable biodiversity conservation."
+  },
+  {
+    "objectID": "sdgs/target-15-5.html#identification-of-ecological-traps",
+    "href": "sdgs/target-15-5.html#identification-of-ecological-traps",
+    "title": "Reduce the degradation of natural habitats",
+    "section": "Identification of Ecological Traps",
+    "text": "Identification of Ecological Traps\nIn the study by Sánchez-Mercado et al. (2014), we developed a method to visualize and predict ecological traps, the study provides a tool to identify areas where species are at risk due to misleading habitat cues. This is crucial for preventing further biodiversity loss.\nThe study combines data on human impacts (like poaching) with environmental variables to predict the occurrence of ecological traps. This integrated approach helps in understanding the complex interactions between human activities and wildlife habitats.\nBy identifying areas with a high probability of being ecological traps, the study highlights regions that require urgent conservation action. This helps in prioritizing efforts to halt habitat degradation and biodiversity loss.\nThe study suggests further research on bear dispersal behavior and independent verification of ecological traps. It also recommends targeted education and law enforcement in high-risk areas, and increasing connectivity in safe harbor areas. These recommendations provide a roadmap for effective conservation interventions."
+  },
+  {
+    "objectID": "sdgs/target-15-5.html#data-driven-conservation-strategies",
+    "href": "sdgs/target-15-5.html#data-driven-conservation-strategies",
+    "title": "Reduce the degradation of natural habitats",
+    "section": "Data-Driven Conservation Strategies",
+    "text": "Data-Driven Conservation Strategies\nBy using spatially explicit models, our work offers a data-driven approach to predict and prevent future declines. This aligns with the SDG’s emphasis on evidence-based actions to protect threatened species.\nProactive management and conservation programs can prevent extirpations of these large mammals. By providing a comprehensive analysis of the factors affecting their populations and suggesting actionable conservation strategies, these studies make valuable contributions to the efforts to halt biodiversity loss and protect these threatened species.\n\nCheck my contributions to other targets!"
+  },
+  {
+    "objectID": "sdgs/target-11-4.html",
+    "href": "sdgs/target-11-4.html",
+    "title": "Protect and safeguard the world’s cultural and natural heritage",
+    "section": "",
+    "text": "Target 11.4: Strengthen efforts to protect and safeguard the world’s cultural and natural heritage"
+  },
+  {
+    "objectID": "sdgs/target-11-4.html#the-canaima-national-park",
+    "href": "sdgs/target-11-4.html#the-canaima-national-park",
+    "title": "Protect and safeguard the world’s cultural and natural heritage",
+    "section": "The Canaima National Park",
+    "text": "The Canaima National Park\nCanaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world’s highest (1,000 m), form a spectacular landscape (UNESCO World Heritage List).\nI have been involved in efforts to monitor biodiversity and environmental conditions. Using a combination of camera traps, field observations, and other technologies we have tried to track wildlife and detect ecological changes in this area (Stachowicz et al. 2020; Stachowicz et al. 2024).\nInvolving local communities in conservation efforts is essential. Community Engagement through education and awareness programs can help locals to find crucial links between better livelihoods and the preservation of nature and wildlife in the park (Stachowicz et al. 2020).\nWe have been advocating for policies that protect this natural heritage site and integrates conservation goals into national and regional planning to ensure long-term protection. We have been seeking support from international organizations and conservation groups to provide additional resources and expertise.\n\nCheck my contributions to other targets!"
+  },
+  {
+    "objectID": "sdgs/target-15-3.html",
+    "href": "sdgs/target-15-3.html",
+    "title": "./jrfep",
+    "section": "",
+    "text": "Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss\n\n15.3 By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world\n\n15.3.1 Proportion of land that is degraded over total land area C150301"
   },
   {
     "objectID": "links.html",
@@ -61,5 +173,229 @@
     "title": "More from me",
     "section": "",
     "text": "These links are for those who want to read more from me:\nI share tips and tricks in my blog spatial one and my explicado website.\nI have started another blog about ecosystems of the world."
+  },
+  {
+    "objectID": "my-publications.html",
+    "href": "my-publications.html",
+    "title": "Peer reviewed publications",
+    "section": "",
+    "text": "This is my list of peer-reviewed publications, including journal articles, book chapters and edited books.\n\n\nAlting, B. F., Pitcher, B. J., Rees, M. W., Ferrer-Paris, J. R., and Jordan, N. R. (2024), \"Population density and ranging behaviour of a generalist carnivore varies with human population\" Ecology and Evolution, 14, 5, e11404.\n\n\nFerrer-Paris, J. R., and Keith, D. A. (2024), \"Trade-offs in the use of direct and indirect indicators of ecosystem degradation for risk assessment\" Ecological Indicators, 160, 111790.\n\n\nFerrer-Paris, J. R., Llambí, L. D., Melfo, A., and Keith, D. (2024), \"First red list of ecosystems assessment of a tropical glacier ecosystem to diagnose the pathways toward imminent collapse\" (Oryx, in press) Preprint at EcoEvoRxiv.\n\n\nIUCN. (2024), Guidelines for the application of IUCN red list of ecosystems categories and criteria: Version 2.0, (D. A. Keith, J. R. Ferrer-Paris, S. M. M. Ghoraba, S. Henriksen, M. Monyeki, N. J. Murray, E. Nicholson, J. Rowland, A. Skowno, J. A. Slingsby, A. B. Storeng, M. Valderrábano, and I. Zager, eds.), Gland, Switzerland, IUCN, xii, 162p. : ill.\n\n\nNicholson, E., Andrade, A., Driver, A., Ferrer-Paris, J. R., Keith, D., Sievers, M., and Stevenson, S. (2024), \"Beyond the headline: Roles of the red list of ecosystems in implementing the kunming-montreal global biodiversity framework\" Nature Ecology and Evolution.\n\n\nStachowicz, I., Ferrer-Paris, J. R., and Sánchez-Mercado, A. (2024), \"Leveraging limited data from wildlife monitoring in a conflict affected region in venezuela\" Scientific Reports, 14, 1673.\n\n\nKeith, D. A., Ghoraba, S. M. M., Kaly, E., Jones, K. R., Oosthuizen, A., Obura, D., Costa, H. M., Daniels, F., Duarte, E., Grantham, H., Gudka, M., Norman, J., Shannon, L. J., Skowno, A., and Ferrer-Paris, J. R. (2023a), \"Contributions of red lists of ecosystems to risk-based design and management of protected and conserved areas in africa\" Conservation Biology.\n\n\nKeith, D., Benson, D., Baird, I., Watts, L., Simpson, C., Krogh, M., Gorissen, S., Ferrer-Paris, J. R., and Mason, T. (2023b), \"Effects of interactions between anthropogenic stressors and recurring perturbations on ecosystem resilience and collapse\" Conservation Biology, 37, e13995.\n\n\nNoriega, J. A., Castro-Arrazola, I. de, Alves-Martins, F., Ortega, J., Bini, L., Andrew, N., Arellano, L., Beynon, S., Davis, A., Favila, M., Floate, K., Horgan, F., Menéndez, R., Milotic, T., Nervo, B., Palestrini, C., Rolando, A., Scholtz, C., Senyüz, Y., Wassmer, T., Ádam, R., Araújo, C., Barragán-Ramírez, J., Boros, G., Camero-Rubio, E., Cruz, M., Cuesta, E., Damborsky, M., Deschodt, C., Rajan, P., D’hondt, B., Rojas, A. D., Dindar, K., Escobar, F., Espinoza, V., Ferrer-Paris, J. R., Rojas, P. E. G., Hemmings, Z., Hernández, B., Hill, S., Hoffmann, M., Jay-robert, P., Lewis, K., Lewis, M., Lozano, C., Marín-Armijos, D., Farias, P. de, Murcia-Ordoñez, B., Karimbumkara, S., Navarrete-Heredia, J. L., Ortega-Echeverría, C., Pablo-Cea, J., Perrin, W., Pessôa, M., Radhakrishnan, A., Rahimi, I., Raimundo, A., Ramos, D., Rebolledo, R., Roggero, A., Sánchez-Mercado, A., Somay, L., Stadler, J., Tahmasebi, P., Céspedes, J. D. T., and Santos, A. (2023), \"Dung removal increases under higher dung beetle functional diversity regardless of grazing intensification\" Nature Communications, 14, 1, 8070.\n\n\nFerrer-Paris, J. R., Lozano, C., and Cardozo-Urdaneta, A. (2022), \"Evaluando la novedad de un nuevo registro de &lt;em&gt;oxysternon ebeninum&lt;/em&gt; (nevison, 1890) (coleoptera: Scarabaeidae: Scarabaeinae) en venezuela\" Revista Chilena de Entomología, 48, 2.\n\n\nKeith, D. A., Ferrer-Paris, J. R., Nicholson, E., Bishop, M. J., Polidoro, B. A., Ramirez-Llodra, E., Tozer, M. G., Nel, J. L., Mac Nally, R., Gregr, E. J., Watermeyer, K. E., Essl, F., Faber-Langendoen, D., Franklin, J., Lehmann, C. E. R., Etter, A., Roux, D. J., Stark, J. S., Rowland, J. A., Brummitt, N. A., Fernandez-Arcaya, U. C., Suthers, I. M., Wiser, S. K., Donohue, I., Jackson, L. J., Pennington, R. T., Iliffe, T. M., Gerovasileiou, V., Giller, P., Robson, B. J., Pettorelli, N., Andrade, A., Lindgaard, A., Tahvanainen, T., Terauds, A., Chadwick, M. A., Murray, N. J., Moat, J., Pliscoff, P., Zager, I., and Kingsford, R. T. (2022), \"A function-based typology for earth’s ecosystems\" Nature, 610, 513–518.\n\n\nEberhard, J. R., Zager, I., Ferrer-Paris, J. R., and Rodríguez-Clark, K. (2021), \"Contact calls of island Brown-throated Parakeets exhibit both character and variance shifts compared to calls of their mainland relatives\" Ornithology, 139, 1.\n\n\nStachowicz, I., Ferrer-Paris, J. R., and Sánchez-Mercado, A. (2021), \"Shifting cultivation and hunting across the savanna-forest mosaic in the gran sabana, venezuela: Facing changes\" PeerJ, PeerJ, 9, e11612.\n\n\nSaylors, K., Wolking, D. J., Hagan, E., Martinez, S., Francisco, L., Euren, J., Olson, S. H., Miller, M., Fine, A. E., Thanh, N. N. T., Tran Minh, P., Kalengkongan, J. D., PREDICT Consortium, Kusumaningrum, T., Latinne, A., Pamungkas, J., Safari, D., Saputro, S., Bamba, D., Coulibaly, K. J., Dosso, M., Laudisoit, A., N’guettia Jean, K. M., Dutta, S., Islam, A., Shano, S., Mwanzalila, M. I., Trupin, I. P., Gbakima, A., Bangura, J., Yondah, S. T., Karmacharya, D., Shrestha, R. D., Kamta, M. A. M., Mouiche, M. M. M., Ndolo, H. M., Niama, F. R., Onikrotin, D., Daszak, P., Johnson, C. K., and Mazet, J. A. K. (2021), \"Socializing one health: An innovative strategy to investigate social and behavioral risks of emerging viral threats\" One Health Outlook, Springer Science and Business Media LLC, 3, 1.\n\n\nFerrer-Paris, J. R., and Sánchez-Mercado, A. (2021), \"Contributions of distribution modelling to the ecological study of psittaciformes\" Diversity, 13, 12.\n\n\nSánchez-Mercado, A., Ferrer-Paris, J. R., Rodríguez, J. P., and L. Tella, J. (2021), \"A literature synthesis of actions to tackle illegal parrot trade\" Diversity, 13, 5.\n\n\nKeith, D. A., Ferrer-Paris, J. R., Nicholson, E., and Kingsford, R. T. (Eds.). (2020), IUCN global ecosystem typology 2.0: Descriptive profiles for biomes and ecosystem functional groups, IUCN, International Union for Conservation of Nature.\n\n\nStachowicz, I., Ferrer-Paris, J. R., Quiroga-Carmona, M., Moran, L., and Lozano, C. (2020), \"Baseline for monitoring and habitat use of medium to large non-volant mammals in gran sabana, venezuela\" Therya, Asociacion Mexicana de Mastozoologia, 11, 2, 169–179.\n\n\nFerrer-Paris, J. R., and Sánchez-Mercado, A. (2020), \"Making inferences about non-detection observations to improve occurrence predictions in venezuelan psittacidae\" Bird Conservation International, Cambridge University Press, 30, 3, 406–422.\n\n\nMurray, N. J., Keith, D. A., Duncan, A., Tizard, R., Ferrer-Paris, J. R., Worthington, T. A., Armstrong, K., Nyan Hlaing, Win Thuya Htut, Aung Htat Oo, Kyaw Zay Ya, and Grantham, H. (2020), \"Myanmar’s terrestrial ecosystems: Status, threats and conservation opportunities\" Biological Conservation, 252, 108834.\n\n\nRowland, J. A., Bland, L. M., Keith, D. A., Juffe-Bignoli, D., Burgman, M. A., Etter, A., Ferrer-Paris, J. R., Miller, R. M., Skowno, A. L., and Nicholson, E. (2019), \"Ecosystem indices to support global biodiversity conservation\" Conservation Letters, Wiley, 13, 1.\n\n\nFerrer-Paris, J. R., Zager, I., Keith, D. A., Oliveira-Miranda, M. A., Rodríguez, J. P., Josse, C., González-Gil, M., Miller, R. M., Zambrana-Torrelio, C., and Barrow, E. (2019), \"An ecosystem risk assessment of temperate and tropical forests of the americas with an outlook on future conservation strategies\" Conservation letters, Wiley, 12, 2, e12623.\n\n\nBland, L. M., Nicholson, E., Miller, R. M., Andrade, A., Carré, A., Etter, A., Ferrer-Paris, J. R., Herrera, B., Kontula, T., Lindgaard, A., Pliscoff, P., Skowno, A., Valderrábano, M., Zager, I., and Keith, D. A. (2019), \"Impacts of the IUCN red list of ecosystems on conservation policy and practice\" Conservation Letters, 12, 5, e12666.\n\n\nHerrera, I., Ferrer-Paris, J. R., Benzo, D., Flores, S., García, B., and Nassar, J. M. (2018), \"An invasive succulent plant (kalanchoe daigremontiana) influences soil carbon and nitrogen mineralization in a neotropical semiarid zone\" Pedosphere, 28, 4, 632–643.\n\n\nMorán, L., García, L., Ferrebuz, J. D., Sánchez, R., Sánchez-Mercado, A., Porta, A., and Ferrer-Paris, J. R. (2018), \"Interannual and daily activity patterns of mid-sized mammals in maracaibo lake basin, venezuela\" Therya, 9, 3, 227 —–236.\n\n\nSánchez-Mercado, A., Rodríguez-Clark, K. M., Miranda, J., Ferrer-Paris, J. R., Coyle, B., Toro, S., Cardozo-Urdaneta, A., and Braun, M. J. (2018), \"How to deal with ground truthing affected by human-induced habitat change?: Identifying high-quality habitats for the critically endangered red siskin\" Ecology and Evolution, 8, 2, 841 —–851.\n\n\nJędrzejewski, W., Boede, E. O., Abarca, M., Sánchez-Mercado, A., Ferrer-Paris, J. R., Lampo, M., Velásquez, G., Carreño, R., Viloria, Á. L., Hoogesteijn, R., Robinson, H. S., Stachowicz, I., Cerda, H., Weisz, M. M. del, Barros, T. R., Rivas, G. A., Borges, G., Molinari, J., Lew, D., Takiff, H., and Schmidt, K. (2017), \"Predicting carnivore distribution and extirpation rate based on human impacts and productivity factors; assessment of the state of jaguar (panthera onca) in venezuela\" Biological Conservation, 206, 132–142.\n\n\nKelly, T. R., Karesh, W. B., Johnson, C. K., Gilardi, K. V. K., Anthony, S. J., Goldstein, T., Olson, S. H., Machalaba, C., PREDICT Consortium, and Mazet, J. A. K. (2017), \"One health proof of concept: Bringing a transdisciplinary approach to surveillance for zoonotic viruses at the human-wild animal interface\" Preventive Veterinary Medicine, 137, 112–118.\n\n\nHerrera, I., Ferrer-Paris, J. R., Hernández-Rosas, J. I., and Nassar, J. M. (2016), \"Impact of two invasive succulents on native-seedling recruitment in neotropical arid environments\" Journal of Arid Environments, Elsevier BV, 132, 15–25.\n\n\nFerrer-Paris, J. R., Lozano, C., Cardozo-Urdaneta, A., and Thomas Cabianca, A. (2016), \"Indicative response of oxysternon festivum linné (coleoptera: Scarabaidae) to vegetation condition in the basin of the orinoco river, venezuela\" Journal of Insect Conservation, Springer Science and Business Media LLC, 20, 3, 527–538.\n\n\nBlanco Pérez, E., and Ferrer-Paris, J. R. (2016), \"Métodos de estimación de cambios espacio-temporales en la distribución geográfica de especies\" Métodos en Ecología y Sistemática, 11, 2, 121.\n\n\nThomas Cabianca, A., and Ferrer-Paris, J. R. (2015), \"Primer reporte de la especie exótica chrysomya rufifacies macquart 1844 y nuevos registros de c. Putoria wiedemann 1818 (diptera: Calliphoridae) para venezuela\" Bioinvasiones, 1, 19.\n\n\nViloria, Á. L., Ferrer-Paris, J. R., Camacho, J., and Costa, M. (2015), \"New satyrine butterflies from the venezuelan andes (lepidoptera: nymphalidae)\" Anartia, Zenodo, 25, 95­–160.\n\n\nSchwind, J. S., Wolking, D. J., Brownstein, J. S., PREDICT Consortium, Mazet, J. A. K., and Smith, W. A. (2014), \"Evaluation of local media surveillance for improved disease recognition and monitoring in global hotspot regions\" PLoS ONE, (M. L. Gatton, ed.), Public Library of Science (PLoS), 9, 10, e110236.\n\n\nFerrer-Paris, J. R., Sánchez-Mercado, A., Rodríguez-Clark, K. M., Rodríguez, J. P., and Rodríguez, G. A. (2014), \"Using limited data to detect changes in species distributions: Insights from amazon parrots in venezuela\" Biological Conservation, Elsevier BV, 173, 133–143.\n\n\nSánchez-Mercado, A., Ferrer-Paris, J. R., García-Rangel, S., Yerena, E., Robertson, B. A., and Rodríguez-Clark, K. M. (2014), \"Combining threat and occurrence models to predict potential ecological traps for andean bears in the cordillera de mérida, venezuela\" Animal Conservation, Wiley, 17, 4, 388–398.\n\n\nFerrer-Paris, J. R., Mercado, A. S., and Rodríguez, J. P. (2013a), \"Optimización del muestreo de invertebrados tropicales: Un ejemplo con escarabajos coprófagos (coleoptera: Scarabaeinae) en venezuela\" Revista de Biología Tropical, Universidad de Costa Rica, 61, 1.\n\n\nFerrer-Paris, J. R., Sánchez-Mercado, A., L. Viloria, Ángel, and Donaldson, J. (2013b), \"Congruence and diversity of butterfly-host plant associations at higher taxonomic levels\" PLoS ONE, (H. H. Bruun, ed.), Public Library of Science (PLoS), 8, 5, e63570.\n\n\nFerrer-Paris, J. R., Rodríguez, J. P., Good, T. C., Sánchez-Mercado, A. Y., Rodríguez-Clark, K. M., Rodríguez, G. A., and Solís, A. (2012), \"Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions\" Diversity and Distributions, Wiley, 19, 2, 215–231.\n\n\nRodríguez, G. A., Rodríguez, J. P., Ferrer-Paris, J. R., and Sánchez-Mercado, A. (2012), \"A nation-wide standardized bird survey scheme for venezuela\" The Wilson Journal of Ornithology, Wilson Ornithological Society, 124, 2, 230–244.\n\n\nSánchez-Mercado, A., Ferrer-Paris, J. R., Yerena, E., García-Rangel, S., and Rodríguez-Clark, K. M. (2008), \"Factors affecting poaching risk to vulnerable andean bears tremarctos ornatus in the cordillera de mérida, venezuela: Space, parks and people\" Oryx, Cambridge University Press (CUP), 42, 03.\n\n\nViloria, A. L., Pyrcz, T. W., Wojtusiak, J., Ferrer-Paris, J. R., Beccaloni, G. W., Sattler, K., and Lees, D. C. (2003), \"A brachypterous butterfly?\" Proceedings of the Royal Society of London. Series B: Biological Sciences, The Royal Society, 270, suppl_1."
+  },
+  {
+    "objectID": "impact-SDG.html",
+    "href": "impact-SDG.html",
+    "title": "Sustainable development goals",
+    "section": "",
+    "text": "These links provide details about my contributions to the Sustainable Development Goals."
+  },
+  {
+    "objectID": "impact-SDG.html#goal-2",
+    "href": "impact-SDG.html#goal-2",
+    "title": "Sustainable development goals",
+    "section": "Goal 2",
+    "text": "Goal 2\n\nEnd hunger, achieve food security and improved nutrition and promote sustainable agriculture"
+  },
+  {
+    "objectID": "impact-SDG.html#goal-6",
+    "href": "impact-SDG.html#goal-6",
+    "title": "Sustainable development goals",
+    "section": "Goal 6",
+    "text": "Goal 6\n\nEnsure availability and sustainable management of water and sanitation for all"
+  },
+  {
+    "objectID": "impact-SDG.html#goal-11",
+    "href": "impact-SDG.html#goal-11",
+    "title": "Sustainable development goals",
+    "section": "Goal 11",
+    "text": "Goal 11"
+  },
+  {
+    "objectID": "impact-SDG.html#goal-15",
+    "href": "impact-SDG.html#goal-15",
+    "title": "Sustainable development goals",
+    "section": "Goal 15",
+    "text": "Goal 15\n\nProtect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"
+  },
+  {
+    "objectID": "secrets/CV.html",
+    "href": "secrets/CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Unit 3 104 Wentworth Street\n2031 Randwick\nMobile: 0431531420\nEmail: jr.ferrer.paris@gmail.com"
+  },
+  {
+    "objectID": "secrets/CV.html#appointments-and-experience",
+    "href": "secrets/CV.html#appointments-and-experience",
+    "title": "Curriculum Vitae",
+    "section": "APPOINTMENTS AND EXPERIENCE",
+    "text": "APPOINTMENTS AND EXPERIENCE\n\nSenior Research Fellow / Senior Lecturer\nUniversity of New South Wales, Sydney Oct 2022 – Present\n\nTracking ecosystems and adapting management to change in New South Wales, Australia.\nImpacts of Red List of Ecosystems in Africa.\nRed List of Ecosystem assessment of tropical glaciers.\nEditor of the Red List of Ecosystems guidelines (v2.0)\nMember of the UNSW Data Science Hub\n\n\n\nSenior Research Fellow\nUniversity of New South Wales, Sydney Jul 2019 – Oct 2022\n\nDevelopment of the IUCN Global Ecosystem typology, leading the preparation and management of digital resources (code, datasets, database and maps).\nDevelopment of the Fire Ecology Traits for Plants database for fire research and management.\nRed List of Ecosystems assessments in Myanmar, Chile and Venezuela\nMember of the UNSW Data Science Hub\n\n\n\nAdjunct researcher\nProvita (NGO), Venezuela 2016 – Oct 2018\n\nLead the first continental Red List of Ecosystems assessment of the forest of the Americas.\nDevelopment of the Red List of Ecosystems assessments database\n\n\n\nResearch Fellow\nInstituto Venezolano de Investigaciones Científicas, Venezuela 2014 – Oct 2018\n\nHead of the Spatial Ecology Lab at the Centre for Botanical and Agroforestry Studies.\nManagement of the Herbarium and the Invertebrate collection\nAssessment of conservation status of more than 30 invertebrate species for the Venezuelan Red Book of Threatened Animals.\n\n\n\nPost doctoral Fellow\nUniversity of Cape Town and South African National Biodiversity Institue, South Africa Oct 2011 – Mar 2013\nInstituto Venezolano de Investigaciones Cientifcas, Venezuela Jan 2011 – Mar 2014\n\nLinking biodiversity databases for research on macroecological patterns in biotic interactions between butterflies and their hostplants.\n\n\n\nProject manager\nBiodiversity Research Unit, Instituto Venezolano de Investigaciones Cientifcas, Venezuela Jan 2007 – Mar 2010\n\nBiodiversity informatics, collection management and database management.\nProject leader of the Neotropical Biodiversity Mapping Initiative (NeoMapas)."
+  },
+  {
+    "objectID": "secrets/CV.html#qualifications",
+    "href": "secrets/CV.html#qualifications",
+    "title": "Curriculum Vitae",
+    "section": "QUALIFICATIONS",
+    "text": "QUALIFICATIONS\nPhD in Ecology  Instituto Venezolano de Investigaciones Científicas, Venezuela Sep 2001 — Feb 2009\nDiplom-Biologe Universität Bayreuth, Germany 1995 — 2001"
+  },
+  {
+    "objectID": "secrets/CV.html#professional-activities",
+    "href": "secrets/CV.html#professional-activities",
+    "title": "Curriculum Vitae",
+    "section": "PROFESSIONAL ACTIVITIES",
+    "text": "PROFESSIONAL ACTIVITIES\nMember of the International Union for Conservation of Nature’s Commission on Ecosystem Management:\n\nMember of the Red List of Ecosystem (RLE) Thematic group\nMember of the RLE Database Committee\nMember of the Global Ecosystem Typology committee\nContributing to the Green Status of Ecosystem working group\n\nMember of the Society for Conservation Biology (Washington D.C., USA), Ecological Society of Australia and Sociedad Venezolana de Ecología."
+  },
+  {
+    "objectID": "secrets/CV.html#prizes-and-awards",
+    "href": "secrets/CV.html#prizes-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "PRIZES AND AWARDS",
+    "text": "PRIZES AND AWARDS\n\nPostdoctoral Fellowship Threatened Species Programme, South African National Biodiversity Institute (SANBI), Cape Town, South Africa.\n2004 Order “José Félix Ribas”, 2nd Class in the category Science and Innovation, Ministerio de Salud y Desarrollo Social, Caracas, Venezuela."
+  },
+  {
+    "objectID": "secrets/CV.html#research-interests",
+    "href": "secrets/CV.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "RESEARCH INTERESTS",
+    "text": "RESEARCH INTERESTS\nI apply function-based approaches to understand and classify terrestrial, freshwater, marine and subterranean ecosystems.\nI collaborate with international research and practitioner networks leading the development of ecosystem specific indicators and analytical methods.\nThese indicators support risk assessments of ecosystems, condition measurement and quantitative synthesis of ecosystem data to inform national and global reporting on biodiversity conservation and sustainable development."
+  },
+  {
+    "objectID": "secrets/CV.html#research-outputs",
+    "href": "secrets/CV.html#research-outputs",
+    "title": "Curriculum Vitae",
+    "section": "RESEARCH OUTPUTS",
+    "text": "RESEARCH OUTPUTS\nAugust 2024:\n\n40 peer reviewed publications in scientific journals, two books, one book chapter and one article in conference proceedings,\n\nGoogle Scholar (since 2019): H-index = 16 (13), i10-index = 20 (16); citations = 1135 (918)\nScopus: H-index = 13, 36 documents, 640 citations by 573 documents,\nWeb of Science: H-index = 12, 34 publications, 463 citations, 31 verified peer reviews\n\nContributions to open and reproducible science including pre-prints, reports, datasets, code and software in open access research repositories,\n\nDataCite Commons: 379 works with 365 citations, 94% with open access licenses\nFigshare: 63 contributions, 53991 item views, 21295 item downloads,\nZenodo: 108 contributions, OSF: 9 public projects, GitHub: 99 repositories"
+  },
+  {
+    "objectID": "secrets/CV.html#research-grants",
+    "href": "secrets/CV.html#research-grants",
+    "title": "Curriculum Vitae",
+    "section": "RESEARCH GRANTS",
+    "text": "RESEARCH GRANTS\nIUCN, International Union for Conservation of Nature 2024\n\nChief investigator, 30,000 CHF (approved)\n\nNSW Applied Bushfire Science Program 2022\n\nChief investigator, 49,000 AUD\n\nIUCN, International Union for Conservation of Nature and Natural Resources, Eastern and Southern Africa Regional Office (ESARO) / International Contract 2021\n\nChief investigator, 23,435 USD\n\nUniversity of Eastern Finland / International Contract 2020\n\nPartner investigator, 18,000 USD\n\nEncyclopedia of Life. Washington, USA. 2013\n\nEOL Rubenstein Research Fellows award, 30,000 USD"
+  },
+  {
+    "objectID": "secrets/CV.html#higher-degree-research-student-supervision",
+    "href": "secrets/CV.html#higher-degree-research-student-supervision",
+    "title": "Curriculum Vitae",
+    "section": "HIGHER DEGREE RESEARCH STUDENT SUPERVISION",
+    "text": "HIGHER DEGREE RESEARCH STUDENT SUPERVISION\nInstituto Venezolano de Investigaciones Científicas, Venezuela:\n\nIzabela Stachowicz, PhD, Primary Supervision 2014-2018\nArianna Thomas Cabianca, MSc (Masters by research), Joint Supervision 2011-2014"
+  },
+  {
+    "objectID": "secrets/CV.html#education-capacity-building-and-outreach",
+    "href": "secrets/CV.html#education-capacity-building-and-outreach",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION, CAPACITY BUILDING AND OUTREACH",
+    "text": "EDUCATION, CAPACITY BUILDING AND OUTREACH\nSkills seminard for HDR students 2023-2024\n\nContributed sessions on reproducibility of research, sharing of research data, and best practices for coding in R.\n\nuDASH Year 10 Work Experience 2022-2024\n\nOutreach activity of the UNSW Data Science Hub\nWork experience program for Year 10 students\nLed development and delivery in 2023\nDesign of the week activities combining lectures, invited speakers, guided hands-on coding work\nIntroduction to R and posit cloud\n\nCarpentries Instructor 2022-2024\n\nCertified Carpentries Instructor\nVolunteer instructor for Data carpentry and Software carpentry workshops\n\nUNSW codeRs 2021-2024\n\nR coding community run by students and staff\nFounder and Steering Committee member\nDrop-in help sessions for R coding and statistics\nVirtual, in-person and hybrid workshops\n\nRestech drop-in help sessions 2021-2023\n\nMentoring of staff and students\nCoding help for R and Python users\nUsing High Performance Computers for Research\nAccessing Research Technology Services on campus\n\nWorkshop Red List of Ecosystems in Africa, Kigali, Rwanda 2022\n\nCo-led organisation\nTopic: Red List of Ecosystems in Africa, supporting policy, practice and planning\nEvent at the IUCN Africa Protected Area Congress, APAC\n\nBiostatistics course, Universidad Nacional de Asunción, Paraguay 2019\n\nInvited lecturer\nPostgraduate program “Maestría en Ciencias Biológicas; Mención Biodiversidad y Sistemática”\nLed development and delivery\n\nRed List training workshop, Abu Dhabi, United Arab Emirates 2018\n\nRed List of Threatened Species and Red List of Ecosystem training workshop\nEqual contribution to convening and delivering\nFirst joint workshop on Red List methods for species and ecosystems\n\nRed List of Ecosystem training workshop, Georgetown, Guyana 2018\n\nInvited instructor\n\nSymposium An Insight into the Orinoco Mining Arc, Trinidad & Tobago 2018\n\nAn Insight into the Orinoco Mining Arc: its implications for Venezuela and the eastern Caribbean\nCo-led organisation\nInaugural Latin American and Caribbean Congress on Conservation Biology.\n\nRed List of Ecosystem training workshop Asunción, Paraguay 2017\nWorkshop Innovative Tools and Approaches for Ecosystem Risk Assessment in Latin America and Symposium Red Lists of Ecosystems in Latin America from National Efforts to a Regional Strategy, Cartagena, Colombia 2017\n\nCo-led organisation\nPart of the scientific program of the 28th International Congress for Conservation Biology\n\nCapacity-building program for species conservation, Venezuela 2014-2017\n\nDesign and testing of a replicable, scalable capacity-building model\nSupporting role in design, equal contribution in delivery and supervison\nInter-institutional courses leveraged on the research facilities and infrastructure provided by the host institution\nprovided training to more than 200 students, professionals, technicians and governmental agency officials involved in the management of biological diversity.\n\nNeoMaps: biodiversity monitoring, Venezuela 2006, 2009, 2010\n\nImmersive international field courses with students, volunteers and lecturers from Latin America, Spain, USA, France and UK\nDifferent roles: coordinator of field work and lab activities (2006), design and convening (2009, 2010)\nProgram included training and induction, theory, immersive fieldwork and laboratory/collection management work"
+  },
+  {
+    "objectID": "secrets/CV.html#invited-presentations-and-workshops",
+    "href": "secrets/CV.html#invited-presentations-and-workshops",
+    "title": "Curriculum Vitae",
+    "section": "INVITED PRESENTATIONS AND WORKSHOPS",
+    "text": "INVITED PRESENTATIONS AND WORKSHOPS\n\nInvited seminar: Applications of the IUCN Red List of Ecosystems in research and conservation Open Seminar of the Mammal Research Institute, Polish Academy of Science, Białowieża Poland (February 2024)\nInvited virtual workshop: Geospatial data in R for the Macquarie University R Users Group. (December 2023)\nInvited seminar: TIPOLOGÍA GLOBAL DE ECOSISTEMAS DE LA UICN: Un marco de clasificación integral para los ecosistemas de la tierra, integrando sus características funcionales y de composición. Virtual seminar of the IUCN Commission for Ecosystem Management (Latin America and Caribbean section). 2023\n\nInvited Fireside chat about UNSW CodeRs at the ARDC Digital Research Skills Summit 2023, Sydney. 2023\nInvited speaker at the virtual session: “The IUCN Red List of Ecosystems: opportunities and challenges to support the post 2020 framework and the Sustainable Development Goals in Latin America”. Science Summit of the 77 United Nations General Assembly. 2022\nInvited speaker at the virtual session: “Science-based targets for Ecosystems in the post-2020 framework for Biodiversity”. IUCN World Conservation Congress, Marseille, France. 2021\nInvited speaker at the “VII Jornadas Ambientales” 2018\n\nInvited workshop on “Introduction to R programming for life sciences”, Universidad Espíritu Santo, Guayaquil, Ecuador. 2018\n\nVisiting instructor for Workshop “Introduction to multivariate analysis for the life sciences”. Universidad del Atlántico Colombia. 2014\nInvited Presentation at the 4th Tropical Ecology Assessment and Monitoring Network (TEAM) meeting. Dar es Salaam, Tanzania. 2011"
+  },
+  {
+    "objectID": "secrets/CV.html#references",
+    "href": "secrets/CV.html#references",
+    "title": "Curriculum Vitae",
+    "section": "REFERENCES",
+    "text": "REFERENCES\nProf. David Keith\n\nPhone: 02 9385 2111\nEmail: david.keith@unsw.edu.au\nCentre for Ecosystem Science, University of New South Wales, Sydney.\n\nProf. Richard Kingsford\n\nPhone: 02 9385 3442\nEmail: richard.kingsford@unsw.edu.au\nCentre for Ecosystem Science, University of New South Wales, Sydney."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is me!",
+    "section": "",
+    "text": "My research projects apply information technology methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions.\nThey inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results.\nSince my appointment at UNSW I have co-developed the Global Ecosystem Typology as a new function-based approach to understand and classify all terrestrial, freshwater, marine and subterranean ecosystems on Earth. This typology is having significant impact on policy and practice of conservation around the world, including for identifying representativeness of current ecosystems in reserves to natural capital accounting. Application of this framework helps to understand changes in the distribution and condition of ecosystems that are essential for conservation of ecosystem services and nature’s contribution to human wellbeing. My research is leading to collaborations with international research and practitioner networks leading development of ecosystem specific indicators and analytical methods. These indicators support risk assessments of ecosystems, condition measurement and quantitative synthesis of ecosystem data to inform national and global reporting on conservation and sustainable development.\n\n\nVisit the Global Ecosystems webapp\nIn my current position I aim to improve ecosystem management and restoration capacity by applying these frameworks in an Australian context to track biodiversity outcomes effectively. This work spans terrestrial and freshwater ecosystems across landscapes managed by public, private and indigenous organisations in New South Wales.\nI am also working on management of threats to ecosystems. Bush fire regimes have proved to be a critical aspect of terrestrial ecosystem management in recent years, yet the knowledge base is fragmented and dispersed with limited accessibility to fire managers and researchers. To address this problem, I am leading the development of a Fire ecology traits database for plants, which will synthesize existing knowledge on the diversity of the responses of plant species to fires events. This new digital platform is founded on plant demographic processes and links spatiotemporally explicit observations on plant response to fire events and environmental conditions. The database will improve capacity to predict how fire regimes structure plant communities and inform fire management strategies for biodiversity conservation.\n\n\n\n\n\nVisit the Fire Ecology Traits for Plants webapp"
+  },
+  {
+    "objectID": "sdgs/target-11-7.html",
+    "href": "sdgs/target-11-7.html",
+    "title": "./jrfep",
+    "section": "",
+    "text": "Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable\n\n11.7 By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities\n\n11.7.1 Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities C110701\n11.7.2 Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months C110702"
+  },
+  {
+    "objectID": "sdgs/target-15-2.html",
+    "href": "sdgs/target-15-2.html",
+    "title": "End deforestation and restore degraded forests",
+    "section": "",
+    "text": "SDG 15: Life on Land\n\nGoal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss\n\n15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally\n\n15.2.1 Progress towards sustainable forest management C150201\n\n\n\n\nBy 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.\n\nMy contributions (Ferrer-Paris et al. 2019).\n\n\n\n\nReferences\n\nFerrer-Paris, J. R., Zager, I., Keith, D. A., Oliveira-Miranda, M. A., Rodríguez, J. P., Josse, C., González-Gil, M., Miller, R. M., Zambrana-Torrelio, C., and Barrow, E. (2019), \"An ecosystem risk assessment of temperate and tropical forests of the americas with an outlook on future conservation strategies\" Conservation letters, Wiley, 12, 2, e12623."
+  },
+  {
+    "objectID": "sdgs/target-15-1.html",
+    "href": "sdgs/target-15-1.html",
+    "title": "CONSERVE AND RESTORE TERRESTRIAL AND FRESHWATER ECOSYSTEMS",
+    "section": "",
+    "text": "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.\n\n\nGoal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss\n\n15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements\n\n15.1.1 Forest area as a proportion of total land area C150101\n15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type C150102\n\n\n\n\n(Ferrer-Paris et al. 2019)\n\n\n\n\nReferences\n\nFerrer-Paris, J. R., Zager, I., Keith, D. A., Oliveira-Miranda, M. A., Rodríguez, J. P., Josse, C., González-Gil, M., Miller, R. M., Zambrana-Torrelio, C., and Barrow, E. (2019), \"An ecosystem risk assessment of temperate and tropical forests of the americas with an outlook on future conservation strategies\" Conservation letters, Wiley, 12, 2, e12623."
+  },
+  {
+    "objectID": "sdgs/target-15-4.html",
+    "href": "sdgs/target-15-4.html",
+    "title": "Conservation of mountain ecosystems",
+    "section": "",
+    "text": "Target 15.4: By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development"
+  },
+  {
+    "objectID": "sdgs/target-15-4.html#global-tools",
+    "href": "sdgs/target-15-4.html#global-tools",
+    "title": "Conservation of mountain ecosystems",
+    "section": "Global tools",
+    "text": "Global tools\nRed List of Threatened Species and Red List of Ecosystems provide comprehensive assessments of the extinction risk of species and the status of ecosystems. By identifying threatened species and ecosystems, they helps prioritize conservation efforts and informs policy decisions to protect biodiversity (IUCN 2024).\nThe Global Ecosystem Typology framework categorizes ecosystems based on their functional and structural characteristics (Keith et al. 2022). It aids in understanding ecosystem diversity and resilience, which is essential for developing targeted conservation strategies and monitoring ecosystem health.\nBoth tools contribute to monitoring progress towards SDG 15.4 by providing data and indicators that track changes in ecosystem health and biodiversity (Nicholson et al. 2024). This information is vital for assessing the effectiveness of conservation measures and making necessary adjustments.\nThe insights gained from these tools support the integration of ecosystem and biodiversity values into national and local planning, development processes, and poverty reduction strategies (Bland et al. 2019). This ensures that conservation efforts are aligned with sustainable development goals.\nBy providing standardized data and methodologies, these tools facilitate international cooperation and knowledge sharing."
+  },
+  {
+    "objectID": "sdgs/target-15-4.html#status-of-tropical-mountain-ecosystems",
+    "href": "sdgs/target-15-4.html#status-of-tropical-mountain-ecosystems",
+    "title": "Conservation of mountain ecosystems",
+    "section": "Status of tropical mountain ecosystems",
+    "text": "Status of tropical mountain ecosystems\nRed List of Ecosystem assessments in the Americas (Ferrer-Paris et al. 2019), Africa (Keith et al. 2023) and Asia (Murray et al. 2020) highlight the importance of tropical mountain ecosystems for protecting biodiversity. These ecosystems ensure the continued provision of essential ecosystem services that support sustainable development and human well-being. But they are also located in areas of high human impact, where critical threats of climate change and transformation of land use are bringing natural ecosystems to the brink of collapse.\nI am specially interested in the fate of tropical glacier ecosystems. These unique cryogenic ecosystemsare disappearing fast from the top of tropical mountains due to the effects of global climate change (Ferrer-Paris et al. 2024; Ferrer-Paris and Keith 2024)."
+  },
+  {
+    "objectID": "sdgs/target-15-4.html#unique-fauna-in-the-andes",
+    "href": "sdgs/target-15-4.html#unique-fauna-in-the-andes",
+    "title": "Conservation of mountain ecosystems",
+    "section": "Unique fauna in the Andes",
+    "text": "Unique fauna in the Andes\nTropical mountain ecosystems are rich in biodiversity, hosting numerous endemic species that are not found anywhere else. This biodiversity is crucial for maintaining ecological balance and resilience.\nMy work includes contributions to the study of the spectacled Bear, also known as the Andean bear, it is the only bear species native to South America. (Sánchez-Mercado et al. 2008; Sánchez-Mercado et al. 2014).\nI also worked in the Venezuelan páramos, high-altitude ecosystems home to a variety of unique and endemic butterfly species. These butterflies have adapted to the specific climatic and physical conditions of the páramo, which include cold temperatures and high UV radiation.\nI contributed to the description of new species and the study of the ecology and behaviour of species in the genus Redonda and Steromapedaliodes, endemic to the Cordillera de Mérida in Venezuela (Viloria et al. 2003; Viloria et al. 2015).\nThese butterflies are part of the Nymphalidae family, specifically within the subtribe Pronophilina, which is known for its adaptation to high-altitude environments.\nThe diversity and specialization of these butterflies highlight the ecological importance of the Venezuelan páramos and the need for their conservation.\n\nCheck my contributions to other targets!"
+  },
+  {
+    "objectID": "sdgs/target-14-2.html",
+    "href": "sdgs/target-14-2.html",
+    "title": "./jrfep",
+    "section": "",
+    "text": "Goal 14: Conserve and sustainably use the oceans, seas and marine resources for sustainable development\n\n14.2 By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans\n\n14.2.1 Number of countries using ecosystem-based approaches to managing marine areas C140201"
+  },
+  {
+    "objectID": "sdgs/target-6-6.html",
+    "href": "sdgs/target-6-6.html",
+    "title": "Protect and restore water related ecosystems",
+    "section": "",
+    "text": "Target 6.6: By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes"
+  },
+  {
+    "objectID": "sdgs/target-6-6.html#global-tools",
+    "href": "sdgs/target-6-6.html#global-tools",
+    "title": "Protect and restore water related ecosystems",
+    "section": "Global tools",
+    "text": "Global tools\nThe IUCN Global Ecosystem Typology and the IUCN Red List of Ecosystems play crucial roles in achieving Sustainable Development Goal 6 (SDG 6), which focuses on ensuring the availability and sustainable management of water and sanitation for all.\nThe IUCN Global Ecosystem Typology provides a comprehensive function-based classification and support to policy (Keith et al. 2022).\nThe typology provides a detailed framework for classifying and mapping all Earth’s ecosystems, including freshwater ecosystems like rivers, lakes, and wetlands. By understanding the functional and compositional features of these ecosystems, we can better manage and protect water resources.\nThe typology supports global to local policy applications, helping to identify critical ecosystems that are essential for water purification, flood control, and maintaining water cycles. This is vital for implementing effective water management strategies (Nicholson et al. 2024).\nThe IUCN Red List of Ecosystems is the global standard for risk assessment at the ecosystem level and contributes robust science for measuring the impact of threats, and ecosystem responses to conservation measures (IUCN 2024).\nThe Red List of Ecosystems assesses the conservation status of ecosystems, identifying those at risk of collapse. This includes freshwater ecosystems that are crucial for clean water supply and sanitation. By highlighting these risks, it helps prioritize conservation efforts (Bland et al. 2019).\nIt provides a tool for monitoring the state of ecosystems and measuring the impacts of conservation measures. This ongoing assessment is essential for maintaining healthy water ecosystems, which directly supports SDG 6 targets related to water quality and availability.\nTogether, these tools provide a robust scientific basis for decision-making and policy development. They help identify which ecosystems are most critical for water-related services and which are under threat, enabling targeted conservation and restoration efforts.\nBy integrating these tools into national and global water management policies, we can ensure the sustainable use and protection of water resources, contributing directly to the achievement of SDG 6."
+  },
+  {
+    "objectID": "sdgs/target-6-6.html#continental-progress",
+    "href": "sdgs/target-6-6.html#continental-progress",
+    "title": "Protect and restore water related ecosystems",
+    "section": "Continental progress",
+    "text": "Continental progress\n\nFreshwater ecosystems in Africa\nAfrica is strategically important for ecosystem management due to its high ecosystem diversity, significant pressures, and high human dependency on nature. A symposium at the African Protected Areas Congress discussed the role of the IUCN Red List of Ecosystems in designing and managing protected areas (PCAs).\nAfrica hosts a significant portion of the world’s freshwater ecosystems, including artesian springs, seasonal floodplains, rivers, and lakes. However, many of these ecosystems remain unevaluated or data deficient. Red-list assessments have been conducted for key freshwater ecosystems in Egypt, the Congo basin, Senegal, Mauritania, and Mozambique (Keith et al. 2023a)."
+  },
+  {
+    "objectID": "sdgs/target-6-6.html#case-studies",
+    "href": "sdgs/target-6-6.html#case-studies",
+    "title": "Protect and restore water related ecosystems",
+    "section": "Case studies",
+    "text": "Case studies\n\nTropical glaciers\nTropical glaciers play a role in the local and regional cycles of water and energy. The glaciers in the top of tropical mountains store vast amounts of freshwater in the form of ice. During warmer months, the melting ice provides a steady flow of water to rivers and streams, contributing to downstream needs for drinking water, agriculture, and hydropower.\nThese ecosystems support unique micro- and meso-biota adapted to cold environments. The meltwater from glaciers also contributes nutrients and propagules to downstream ecosystems.\nMany communities rely on glacier-fed rivers for their livelihoods, including agriculture, fishing, and tourism. The consistent water supply from glaciers is vital for these economic activities.\nDetailed spatial analyses of the rates of changes of tropical glaciers in the Andes and other tropical mountains can inform regional and local strategies for monitoring, management, and conservation, benefiting both people and nature.\nOur work supports SDG 6.6 by offering methods to evaluate and mitigate risks to water-related ecosystems, ensuring their sustainability and resilience (Ferrer-Paris et al. 2024; Ferrer-Paris and Keith 2024).\n\n\nUpland swamps in Australia\nWe studied groundwater-dependent, peat-accumulating, fire-prone wetlands known as upland swamps in southeastern Australia (Keith et al. 2023b).\nThe study investigated how underground mining affects the resilience of groundwater-dependent wetlands in southeastern Australia to landscape fires. We monitored soil moisture and compared the responses of mined and unmined swamps after fires. We found that mined swamps experienced a significant decline in soil moisture and showed strong symptoms of ecosystem collapse, such as loss of peat, reduced vegetation, and altered species composition. In contrast, unmined swamps maintained soil moisture and regenerated vigorously after fires.\nOur findings highlight the importance of early diagnosis and preventative measures to avoid ecosystem collapse due to anthropogenic stressors.\n\nCheck my contributions to other targets!"
+  },
+  {
+    "objectID": "sdgs/target-15-9.html",
+    "href": "sdgs/target-15-9.html",
+    "title": "./jrfep",
+    "section": "",
+    "text": "Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss\n\n15.9 By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts\n\n15.9.1 (a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting C150902\n\n15.c Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities\n\n15.c.1 Proportion of traded wildlife that was poached or illicitly trafficked C200206"
   }
 ]
