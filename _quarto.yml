@@ -17,21 +17,28 @@ website:
     title: "J.R. Ferrer-Paris"
     type: inverse
     left:
-      - CV.qmd
-      - my-publications.qmd
-      - sdgs.qmd
+      - icon: book-half
+        text: "My research"
+        menu:
+        - CV.qmd
+        - my-publications.qmd
+        - impact-SDG.qmd
     right:
-      - text: "Read more here"
-        icon: eyeglasses
-        href: links.qmd
       - icon: folder-symlink
         menu:
         - text: "Overview"
           icon: projector
           href: "https://jrfep.github.io/"
+        - text: "Read more here"
+          icon: eyeglasses
+          href: links.qmd
         - text: "cambiar a Español"
           icon: braces-asterisk
           href: "https://jrfep.github.io/esp/"
+
+bibliography: 
+  - bibtex/peer-review.bibtex
+csl: bibtex/my.csl
 
 format:
   html:

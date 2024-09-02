@@ -1,0 +1,37 @@
+---
+title: "Reduce the degradation of natural habitats"
+subtitle: "[My contributions to SDGs](/impact-SDG.qmd)"
+---
+
+![Target 15.5: Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species](../images/GOAL_15_TARGET_15.5.svg){width=150}
+
+SDG target 15.5’s call for urgent and significant action to protect threatened species.
+
+## Understanding Mechanisms of Decline
+
+In the study by @Jedrzejewski2017. we identified the factors that contribute to jaguar extirpations. Our study provides critical insights into the mechanisms behind biodiversity loss. This understanding is essential for developing effective conservation strategies.
+
+The study highlights the dual impact of human activities and ecosystem productivity on jaguar populations. This nuanced understanding helps in creating targeted interventions that address both anthropogenic pressures and environmental conditions.
+
+The study’s finding that human population density alone cannot explain jaguar declines suggests that conservation efforts must be multifaceted, addressing both human and environmental factors. This holistic approach is crucial for achieving sustainable biodiversity conservation.
+
+## Identification of Ecological Traps
+
+In the study by @Sanchez_Mercado_2014_Ecological_traps_Tremarctos, we developed a method to visualize and predict ecological traps, the study provides a tool to identify areas where species are at risk due to misleading habitat cues. This is crucial for preventing further biodiversity loss.
+
+The study combines data on human impacts (like poaching) with environmental variables to predict the occurrence of ecological traps. This integrated approach helps in understanding the complex interactions between human activities and wildlife habitats.
+
+By identifying areas with a high probability of being ecological traps, the study highlights regions that require urgent conservation action. This helps in prioritizing efforts to halt habitat degradation and biodiversity loss.
+
+The study suggests further research on bear dispersal behavior and independent verification of ecological traps. It also recommends targeted education and law enforcement in high-risk areas, and increasing connectivity in safe harbor areas. These recommendations provide a roadmap for effective conservation interventions.
+
+
+## Data-Driven Conservation Strategies
+
+By using spatially explicit models, our work offers a data-driven approach to predict and prevent future declines. This aligns with the SDG’s emphasis on evidence-based actions to protect threatened species.
+
+Proactive management and conservation programs can prevent extirpations of these large mammals. By providing a comprehensive analysis of the factors affecting their populations and suggesting actionable conservation strategies, these studies make valuable contributions to the efforts to halt biodiversity loss and protect these threatened species.
+ 
+---
+
+Check my contributions to [other targets](/impact-SDG.qmd)!

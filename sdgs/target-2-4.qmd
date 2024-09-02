@@ -1,0 +1,16 @@
+---
+title: "Ensure sustainable food production systems"
+subtitle: "[My contributions to SDGs](/impact-SDG.qmd)"
+---
+
+![Target 2.4: By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality](../images/GOAL_2_TARGET_2.4.svg){width=150}
+
+## Dung beetles in pasture lands
+
+In our work [@Noriega_DungBeetles_2023], we focus on dung removal by dung beetles and its impact on nutrient cycling in pasturelands. The study involves field experiments replicated in 38 pastures around the world. International cooperation in scientific research was a key to address this important question at a global scale.
+
+Diverse dung beetle communities enhance nutrient cycling in pasturelands, which can improve soil fertility and productivity. This supports **sustainable agricultural practices** by maintaining ecosystem health, which are key aspects of Target 2.4.
+
+The study highlights the importance of maintaining biodiversity and ecosystem services even in intensified farming systems. This aligns with promoting sustainable agricultural practices that minimize environmental impact.
+
+Protecting dung beetle species helps maintain the balance and functionality of terrestrial ecosystems.

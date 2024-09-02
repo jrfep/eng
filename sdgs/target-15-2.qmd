@@ -13,6 +13,11 @@ image: ../images/GOAL_15_TARGET_15.2.svg
 
 [SDG 15: Life on Land](https://www.globalgoals.org/goals/15-life-on-land/)
 
+- Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+
+    - 15.2 By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally	
+        - 15.2.1 Progress towards sustainable forest management	C150201
+
 > By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.
 
 My contributions [@Ferrer-Paris_2019_RLE_Forests].

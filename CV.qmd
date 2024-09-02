@@ -99,7 +99,7 @@ Member of the **Society for Conservation Biology** (Washington D.C., USA), **Eco
 
 ## RESEARCH INTERESTS{style="page-break-before: always"}
 
-I apply **functional ecology** approaches to understand and classify terrestrial, freshwater, marine and subterranean ecosystems. 
+I apply **function-based** approaches to understand and classify terrestrial, freshwater, marine and subterranean ecosystems. 
 
 I collaborate with international research and practitioner networks **leading the development of ecosystem specific indicators and analytical methods**. 
 
@@ -150,16 +150,39 @@ Instituto Venezolano de Investigaciones Científicas, Venezuela:
 - Izabela Stachowicz, PhD, Primary Supervision [2014-2018]{.cvdate}
 - Arianna Thomas Cabianca, MSc (Masters by research), Joint Supervision [2011-2014]{.cvdate}
 
-## EDUCATION AND OUTREACH
+## EDUCATION, CAPACITY BUILDING AND OUTREACH
 
-**uDASH Year 10 Work Experience** [2022]{.cvdate}
+**Skills seminard for HDR students** [2023-2024]{.cvdate}
+
+- Contributed sessions on reproducibility of research, sharing of research data, and best practices for coding in R.
+
+**uDASH Year 10 Work Experience** [2022-2024]{.cvdate}
 
 - Outreach activity of the UNSW Data Science Hub
-- work experience program for Year 10 students
-- Led development and delivery 
+- Work experience program for Year 10 students
+- Led development and delivery in 2023
 - Design of the week activities combining lectures, invited speakers, guided hands-on coding work 
 - Introduction to R and posit cloud
-- Program replicated in 2023 and 2024
+
+**Carpentries Instructor** [2022-2024]{.cvdate}
+
+- Certified Carpentries Instructor
+- Volunteer instructor for Data carpentry and Software carpentry workshops
+
+**UNSW codeRs** [2021-2024]{.cvdate}
+
+- R coding community run by students and staff
+- Founder and Steering Committee member
+- Drop-in help sessions for R coding and statistics
+- Virtual, in-person and hybrid workshops
+
+**Restech drop-in help sessions** [2021-2023]{.cvdate}
+
+- Mentoring of staff and students 
+- Coding help for R and Python users
+- Using High Performance Computers for Research
+- Accessing Research Technology Services on campus
+
 
 Workshop **Red List of Ecosystems in Africa**, Kigali, Rwanda [2022]{.cvdate}
 

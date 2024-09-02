@@ -1,12 +1,14 @@
 ---
 title: "CONSERVE AND RESTORE TERRESTRIAL AND FRESHWATER ECOSYSTEMS"
 subtitle: "Target 15.1"
-bibliography: 
-  - ../bibtex/peer-review.bibtex
-csl: ../bibtex/my.csl
 ---
 
 > By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements.
+
+- Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+    - 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements	
+        - 15.1.1 Forest area as a proportion of total land area	C150101
+        - 15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type	C150102
 
 ![](../images/GOAL_15_TARGET_15.1.svg){width=150}
 

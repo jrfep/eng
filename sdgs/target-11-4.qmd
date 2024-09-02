@@ -1,0 +1,22 @@
+---
+title: "Protect and safeguard the world's cultural and natural heritage"
+subtitle: "[My contributions to SDGs](/impact-SDG.qmd)"
+---
+
+![Target 11.4: Strengthen efforts to protect and safeguard the world's cultural and natural heritage](../images/GOAL_11_TARGET_11.4.svg){width=150}
+
+
+## The Canaima National Park 
+
+Canaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world's highest (1,000 m), form a spectacular landscape ([UNESCO World Heritage List](https://whc.unesco.org/en/list/701/)).
+
+I have been involved in efforts to **monitor biodiversity** and environmental conditions. Using a combination of camera traps, field observations, and other technologies we have tried to track wildlife and detect ecological changes in this area [@Stachowicz_2020_Monitoring_Gran_Sabana; @Stachowicz_2024].
+
+Involving local communities in conservation efforts is essential. **Community Engagement** through
+education and awareness programs can help locals to find crucial links between better livelihoods and the preservation of nature and wildlife in the park [@Stachowicz_2020_Monitoring_Gran_Sabana]. 
+
+We have been **advocating for policies** that protect this natural heritage site and integrates conservation goals into national and regional planning to ensure long-term protection. We have been seeking **support from international organizations** and conservation groups to provide additional resources and expertise. 
+
+---
+
+Check my contributions to [other targets](/impact-SDG.qmd)!
