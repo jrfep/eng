@@ -2,12 +2,21 @@
 title: "Sustainable development goals"
 ---
 
-These links provide details about my contributions to the Sustainable Development Goals. 
+These links provide details about my contributions to the Sustainable Development Goals.
+
+::: {.panel-tabset}
+
+## Click on the icons for more details
+
+[![](images/GOAL_2_TARGET_2.4.svg){.sdgs}](sdgs/target-2-4.qmd)
+[![](images/GOAL_6_TARGET_6.6.svg){.sdgs}](sdgs/target-6-6.qmd)
+[![](images/GOAL_11_TARGET_11.4.svg){.sdgs}](sdgs/target-11-4.qmd)
+[![](images/GOAL_15_TARGET_15.4.svg){.sdgs}](sdgs/target-15-4.qmd)
+
+[![](images/GOAL_15_TARGET_15.5.svg){.sdgs}](sdgs/target-15-5.qmd)
+[![](images/GOAL_15_TARGET_15.8.svg){.sdgs}](sdgs/target-15-8.qmd)
 
 <!--//
-
-
-
 [![example-caption-01](images/GOAL_14_TARGET_14.2.svg){.sdgs}](sdgs/target-14-2.qmd)
 [![example-caption-01](images/GOAL_14_TARGET_14.5.svg){.sdgs}](sdgs/target-14-5.qmd)
 
@@ -24,26 +33,35 @@ https://en.wikipedia.org/wiki/List_of_Sustainable_Development_Goal_targets_and_i
 
 //-->
 
-## Goal 2
+## Or browse using this list
+
+
+### Goal 2
 
 > End hunger, achieve food security and improved nutrition and promote sustainable agriculture
 
-[![](images/GOAL_2_TARGET_2.4.svg){.sdgs}](sdgs/target-2-4.qmd)
+- [Target 2.4: Sustainable food production and resilient agricultural practices](sdgs/target-2-4.qmd)
 
-## Goal 6
+### Goal 6
 
 > Ensure availability and sustainable management of water and sanitation for all
 
-[![](images/GOAL_6_TARGET_6.6.svg){.sdgs}](sdgs/target-6-6.qmd)
-
-## Goal 11
-
-[![](images/GOAL_11_TARGET_11.4.svg){.sdgs}](sdgs/target-11-4.qmd)
+- [Target 6.6: Protect and restore water-related ecosystems](sdgs/target-6-6.qmd)
 
 
-## Goal 15
+### Goal 11
+
+> Make cities and human settlements inclusive, safe, resilient and sustainable
+
+- [Target 11.4: Protect the World's cultural and natural heritage](sdgs/target-11-4.qmd)
+
+
+### Goal 15
 
 > Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
 
-[![](images/GOAL_15_TARGET_15.4.svg){.sdgs}](sdgs/target-15-4.qmd)
-[![](images/GOAL_15_TARGET_15.5.svg){.sdgs}](sdgs/target-15-5.qmd)
+- [Target 15.4: Ensure conservation of Mountain Ecosystems](sdgs/target-15-4.qmd)
+- [Target 15.5: Protect biodiversity and natural habitats](sdgs/target-15-5.qmd)
+- [Target 15.8: Prevent invasive alien species on land and in water ecosystems](sdgs/target-15-8.qmd)
+
+:::

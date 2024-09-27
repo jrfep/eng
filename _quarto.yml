@@ -38,6 +38,7 @@ website:
 
 bibliography: 
   - bibtex/peer-review.bibtex
+  - bibtex/other.bibtex
 csl: bibtex/my.csl
 
 format:

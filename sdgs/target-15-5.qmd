@@ -7,6 +7,8 @@ subtitle: "[My contributions to SDGs](/impact-SDG.qmd)"
 
 SDG target 15.5’s call for urgent and significant action to protect threatened species.
 
+In collaboration with reserchers from the Venezuelan Institute for Scientific Research (Instituto Venezolano de Investigaciones Científicas, IVIC) I have worked with the [Jaguar](https://www.iucnredlist.org/species/15953/123791436){target="RLTS"} and the [Andean Bear](https://www.iucnredlist.org/species/22066/123792952){target="RLTS"} in Venezuela.
+
 ## Understanding Mechanisms of Decline
 
 In the study by @Jedrzejewski2017. we identified the factors that contribute to jaguar extirpations. Our study provides critical insights into the mechanisms behind biodiversity loss. This understanding is essential for developing effective conservation strategies.

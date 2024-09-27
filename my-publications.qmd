@@ -7,9 +7,22 @@ bibliography:
 csl: bibtex/my.csl
 nocite: |
   @*
+format:
+  html:
+    toc: true
+  pdf:
+    author: "José R. Ferrer-Paris"
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
 ---
 
-This is my list of peer-reviewed publications, including journal articles, book chapters and edited books.
+::: {.print-only .contact-block}
+Email: jr.ferrer.paris@gmail.com
+:::
+
+
+This is my list of peer-reviewed publications, including journal articles, book chapters and edited books. Updated in August 2024.
 
 ::: {#refs}
 :::
