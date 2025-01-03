@@ -48,9 +48,18 @@ Detailed spatial analyses of the rates of changes of tropical glaciers in the An
 
 Our work supports SDG 6.6 by offering methods to evaluate and mitigate risks to water-related ecosystems, ensuring their sustainability and resilience [@FerrerParis_Glacier_suitability; @FerrerParis_Glacier_Merida_2024].
 
+### Australian alpine bogs
+
+Australian alpine bogs are groundwater-dependent ecosystems found above 1000 m on the Australian mainland and 800 m in Tasmania. They include a number of structural and floristic types including various combinations of high mountain bogs and their associated fens, peatlands and sedgelands. Their  overall water balance is controlled by several factors, but the most important one are the water inputs from groundwater, the capacity for water retention and the outputs by evapotranspiration. Snowpacks contribute minor inputs through slow release of water into the bogs throughout spring and summer thaw. Sphagnum moss grows slowly, a few centimeters each year, but it contributes to create a biogenic structure that enhance water retention in the landscape. As primary production exceeds decomposition, there is considerable formation of peat that becomes a large landscape store for carbon [@Regan_2020_Risk_Alpine].
+
+Australian alpine bogs are characterized by hummock-forming Sphagnum moss, which typically covers at least 30% of the area, along with wet heath shrubs, sedges, and rushes. ​ The structure can range from Sphagnum-dominated to shrub-dominated. ​ There are 12,528 hectares of alpine bogs mapped across the mainland and Tasmania, with less than half of the original extent remaining in Victoria due to various disturbances. ​ Major threats include increased fire frequency, climate change, and introduced ungulates like feral horses. ​ Climate change is predicted to substantially alter the moisture balance in alpine peatlands, putting the ecosystem at risk of collapsing. 
+
+Alpine bogs were assessed as Vulnerable under IUCN criteria, with key indicators being climatological moisture balance, number of dry months, fire frequency, and Sphagnum cover. ​
+
+
 ### Upland swamps in Australia
 
- We studied groundwater-dependent, peat-accumulating, fire-prone wetlands known as upland swamps in southeastern Australia [@Keith_2022_Resilience_Swamps]. 
+We studied groundwater-dependent, peat-accumulating, fire-prone wetlands known as upland swamps in southeastern Australia [@Keith_2022_Resilience_Swamps]. 
  
 The study investigated how underground mining affects the resilience of groundwater-dependent wetlands in southeastern Australia to landscape fires. We monitored soil moisture and compared the responses of mined and unmined swamps after fires. We found that mined swamps experienced a significant decline in soil moisture and showed strong symptoms of ecosystem collapse, such as loss of peat, reduced vegetation, and altered species composition. In contrast, unmined swamps maintained soil moisture and regenerated vigorously after fires. 
 

@@ -24,10 +24,21 @@ Red List of Ecosystem assessments in the Americas [@Ferrer-Paris_2019_RLE_Forest
 
 I am specially interested in the fate of tropical glacier ecosystems. These unique cryogenic ecosystemsare disappearing fast from the top of tropical mountains due to the effects of global climate change [@FerrerParis_Glacier_suitability; @FerrerParis_Glacier_Merida_2024].
 
+## Status of mountain peatland ecosystems
+
+:::{.aside}
+See also my contributions to  [Target 6.6](/sdgs/target-6-6.qmd)
+:::
+
+I have also contributed to the Red List of Ecosystem assessments and diagnosis of collapse of mountain peatlands in Australia [@Regan_2020_Risk_Alpine; @Keith_2022_Resilience_Swamps].
+
 ## Unique fauna in the Andes
 
  Tropical mountain ecosystems are rich in biodiversity, hosting numerous endemic species that are not found anywhere else. This biodiversity is crucial for maintaining ecological balance and resilience.
 
+:::{.aside}
+See also my contributions to [Target 15.5](/sdgs/target-15-5.qmd) and [Target 15.7](/sdgs/target-15-7.qmd)
+:::
 My work includes contributions to the study of the spectacled Bear, also known as the Andean bear, it is the only bear species native to South America. [@Sanchez_Mercado_2014_Ecological_traps_Tremarctos; @S_nchez_Mercado_2008].
 
 I also worked in the Venezuelan páramos, high-altitude ecosystems home to a variety of unique and endemic butterfly species. These butterflies have adapted to the specific climatic and physical conditions of the páramo, which include cold temperatures and high UV radiation.
