@@ -14,6 +14,7 @@ These links provide details about my contributions to the Sustainable Developmen
 [![](images/GOAL_15_TARGET_15.4.svg){.sdgs}](sdgs/target-15-4.qmd)
 
 [![](images/GOAL_15_TARGET_15.5.svg){.sdgs}](sdgs/target-15-5.qmd)
+[![](images/GOAL_15_TARGET_15.7.svg){.sdgs}](sdgs/target-15-7.qmd)
 [![](images/GOAL_15_TARGET_15.8.svg){.sdgs}](sdgs/target-15-8.qmd)
 
 <!--//
@@ -25,7 +26,7 @@ These links provide details about my contributions to the Sustainable Developmen
 [![example-caption-02](images/GOAL_15_TARGET_15.3.svg){.sdgs}](sdgs/target-15-3.qmd)
 
 
-[![example-caption-02](images/GOAL_15_TARGET_15.7.svg){.sdgs}](sdgs/target-15-7.qmd)
+
 [![example-caption-02](images/GOAL_15_TARGET_15.8.svg){.sdgs}](sdgs/target-15-8.qmd)
 [![example-caption-02](images/GOAL_15_TARGET_15.9.svg){.sdgs}](sdgs/target-15-9.qmd)
 
@@ -62,6 +63,8 @@ https://en.wikipedia.org/wiki/List_of_Sustainable_Development_Goal_targets_and_i
 
 - [Target 15.4: Ensure conservation of Mountain Ecosystems](sdgs/target-15-4.qmd)
 - [Target 15.5: Protect biodiversity and natural habitats](sdgs/target-15-5.qmd)
+- [Target 15.7: Eliminate poaching and trafficking of protected species](sdgs/target-15-7.qmd)
 - [Target 15.8: Prevent invasive alien species on land and in water ecosystems](sdgs/target-15-8.qmd)
+
 
 :::
