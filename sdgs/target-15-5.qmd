@@ -11,7 +11,7 @@ In collaboration with reserchers from the Venezuelan Institute for Scientific Re
 
 ## Understanding Mechanisms of Decline
 
-In the study by @Jedrzejewski2017. we identified the factors that contribute to jaguar extirpations. Our study provides critical insights into the mechanisms behind biodiversity loss. This understanding is essential for developing effective conservation strategies.
+In the study by @Jedrzejewski2017, we identified the factors that contribute to jaguar extirpations. Our study provides critical insights into the mechanisms behind biodiversity loss. This understanding is essential for developing effective conservation strategies.
 
 The study highlights the dual impact of human activities and ecosystem productivity on jaguar populations. This nuanced understanding helps in creating targeted interventions that address both anthropogenic pressures and environmental conditions.
 
@@ -19,6 +19,9 @@ The study’s finding that human population density alone cannot explain jaguar 
 
 ## Identification of Ecological Traps
 
+:::{.aside}
+See also my contributions to  [Target 15.7](/sdgs/target-15-7.qmd)
+:::
 In the study by @Sanchez_Mercado_2014_Ecological_traps_Tremarctos, we developed a method to visualize and predict ecological traps, the study provides a tool to identify areas where species are at risk due to misleading habitat cues. This is crucial for preventing further biodiversity loss.
 
 The study combines data on human impacts (like poaching) with environmental variables to predict the occurrence of ecological traps. This integrated approach helps in understanding the complex interactions between human activities and wildlife habitats.
