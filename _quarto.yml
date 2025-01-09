@@ -23,6 +23,7 @@ website:
         - CV.qmd
         - my-publications.qmd
         - impact-SDG.qmd
+        - impact-GBF.qmd
     right:
       - icon: folder-symlink
         menu:
