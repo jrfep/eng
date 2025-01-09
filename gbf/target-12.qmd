@@ -1,0 +1,44 @@
+---
+title: "Urban areas for Human Well-being and Biodiversity"
+subtitle: "[My contributions to GBF](/impact-GBF.qmd)"
+---
+
+![Target 12: Enhance Green Spaces and Urban Planning for Human Well-Being and Biodiversity](../images/GBF_Target_12.svg){width=350}
+
+The Global Biodiversity Framework (GBF) Target 12 aims to enhance green spaces and promote biodiversity-inclusive urban planning to improve human well-being and biodiversity. This target emphasizes the integration of biodiversity considerations into urban development to create environments that support both human and wildlife populations.
+
+Elements of Target 12 are also addressed in the targets of the Sustainable Development Goals, including [Target 11.7](/sdgs/target-11-7.qmd). 
+
+:::{.aside}
+[![](/images/GOAL_11_TARGET_11.7.svg){.aichi}](/sdgs/target-11-7.qmd)
+:::
+
+## Dingos adapt to resource availability
+
+In a recent study conducted on Worimi Country in the Great Lakes region of the NSW coast, @Brendan_2024 investigated the population density and ranging behaviour of dingoes, a generalist carnivore, across a gradient of human population density. Using camera traps and spatial capture-recapture models, we estimated spatial variation in dingo population density and detection rates in urban, peri-urban, and National Park areas.
+
+**Key Findings:**
+
+1. **Human Population Density as a Driver:** The study found that human population density significantly influences dingo density, ranging from 0.025 to 0.433 dingoes/km² across the natural-urban gradient. Higher human population density was associated with higher dingo density and smaller home range sizes.
+2. **Seasonal Variations:** During peak tourism periods, when human population increases, the spatial scale parameter indicated reduced home range sizes, suggesting that additional resources available during these times might influence dingo behaviour.
+
+## Implication for planning
+
+The findings from this study highlight the importance of managing anthropogenic resources to balance dingo densities and minimize human-carnivore conflicts.
+
+The Myall Lakes National Park and surrounds, including the villages of Hawks Nest/Tea Gardens and Seal Rocks, are home to a wild dingo population. The Midcoast council promotes a [Dingo Smart](https://www.midcoast.nsw.gov.au/Community/Our-environment/Protecting-our-vegetation-and-wildlife/Report-dingo-and-wild-dog) approach. This includes installing signage, educating tourist park operators about dingo-safe behaviours and provided educational materials for visitors; organising dingo proof locking mechanisms for private and public bins; and maintaining a register of sightings and incidents so that dingo behaviour that pose unacceptable risks is identified and managed.
+
+This study was aimed at understanding the local dingo numbers and behaviour and will complement other existing actions and studies to further improve our understanding of dingo responses to management actions. 
+
+Understanding wildlife behaviour in response to human population density is crucial for effective urban planning. This case study underscores how better knowledge and targeted actions can improve coexistence between humans and wildlife. By managing resources and planning urban spaces with biodiversity in mind, we can contribute to the broader objectives of the Global Biodiversity Framework, promoting coexistence and enhancing both human and wildlife well-being.
+
+## Links to other targets 
+
+This target will contribute to the attainment of goals A and B of the Kunming-Montreal Global Biodiversity Framework. Progress towards this target will also help to reach targets 2, 3, 4, 8 and 11. 
+
+[![](/images/GBF_Target_02.svg){.sdgs}](/gbf/target-02.qmd)
+[![](/images/GBF_Target_03.svg){.sdgs}](/gbf/target-03.qmd)
+[![](/images/GBF_Target_04.svg){.sdgs}](/gbf/target-04.qmd)
+[![](/images/GBF_Target_08.svg){.sdgs}](/gbf/target-08.qmd)
+[![](/images/GBF_Target_11.svg){.sdgs}](/gbf/target-11.qmd)
+

@@ -16,6 +16,7 @@ These links provide details about my contributions to the Sustainable Developmen
 [![](images/GOAL_15_TARGET_15.5.svg){.sdgs}](sdgs/target-15-5.qmd)
 [![](images/GOAL_15_TARGET_15.7.svg){.sdgs}](sdgs/target-15-7.qmd)
 [![](images/GOAL_15_TARGET_15.8.svg){.sdgs}](sdgs/target-15-8.qmd)
+[![](images/GOAL_17_TARGET_17.9.svg){.sdgs}](sdgs/target-17-9.qmd)
 
 <!--//
 [![example-caption-01](images/GOAL_14_TARGET_14.2.svg){.sdgs}](sdgs/target-14-2.qmd)
@@ -65,6 +66,13 @@ https://en.wikipedia.org/wiki/List_of_Sustainable_Development_Goal_targets_and_i
 - [Target 15.5: Protect biodiversity and natural habitats](sdgs/target-15-5.qmd)
 - [Target 15.7: Eliminate poaching and trafficking of protected species](sdgs/target-15-7.qmd)
 - [Target 15.8: Prevent invasive alien species on land and in water ecosystems](sdgs/target-15-8.qmd)
+
+
+### Goal 17
+
+> Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+- [Target 17.9: Enhance SDG capacity in developing countries](sdgs/target-17-9.qmd)
 
 
 :::

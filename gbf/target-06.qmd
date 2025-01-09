@@ -1,0 +1,55 @@
+---
+title: "Reduce impact of invasive alien species"
+subtitle: "[My contributions to GBF](/impact-GBF.qmd)"
+---
+
+![Target 6: Reduce the introduction and impact of invasive alien species](../images/GBF_Target_06.svg){width=350}
+
+<https://www.cbd.int/gbf/targets/06>
+
+The Kunming-Montreal Global Biodiversity Framework (GBF) sets ambitious targets to halt and reverse biodiversity loss by 2030. One of the critical targets, Target 6, focuses on managing invasive species to reduce their impact on biodiversity and ecosystem services. This target emphasizes the need for effective control measures and restoration efforts to mitigate the adverse effects of invasive species on native ecosystems.
+
+Target 6 addresses issues previously addressed under *Aichi Biodiversity Target 9:  Invasive alien species prevented and controlled*.
+
+:::{.aside}
+![](/images/aichi-9.png){.aichi}
+:::
+
+Elements of Target 6 are also addressed in the targets of the *Sustainable Development Goals*, including [Target 15.8](/sdgs/target-15-8.qmd). 
+
+:::{.aside}
+[![](/images/GOAL_15_TARGET_15.8.svg){.aichi}](/sdgs/target-15-8.qmd)
+:::
+
+## Case Study: Invasive Succulent Species in Venezuela
+
+In line with the goals of Target 6, my research, conducted in collaboration with Dr. Ileana Herrera, investigates the ecological impacts of two invasive succulent species, *Kalanchoe daigremontiana* and *Stapelia gigantea*, in semiarid regions of Venezuela. Our studies provide valuable insights into the mechanisms driving their invasiveness and the subsequent ecological consequences.
+
+### Ecological Impacts
+
+Our research has revealed how these invasive species alter soil nutrient cycles and affect the recruitment of native vegetation. By quantifying the effects of *K. daigremontiana* on carbon (C) and nitrogen (N) mineralization [@Herrera2018b] and examining the contrasting impacts of *K. daigremontiana* and *S. gigantea* on microbial activity in the soil and native plant recruitment [@Herrera_2016], we contribute to a deeper understanding of how invasive species can disrupt ecosystem processes.
+
+### Management Implications
+
+The findings from our research underscore the urgent need for targeted management actions to mitigate the adverse effects of invasive species and support the conservation of native biodiversity. Specifically:
+
+- **Management Priorities**: Given its significant impact on native plant communities, *Kalanchoe daigremontiana* should be a top priority for management actions. Effective control measures are essential to prevent further spread and mitigate its adverse effects on native biodiversity, directly supporting Target 6 of the GBF.
+
+- **Conservation Strategies**: To protect native vegetation, it is crucial to implement strategies that promote the recruitment of native plants and manage invasive species. This includes monitoring invasive species, restoring native habitats, and engaging local communities in conservation efforts. These actions contribute to the broader goals of the GBF, ensuring that ecosystems are resilient and capable of supporting biodiversity.
+
+## Conclusion
+
+In conclusion, our research provides valuable knowledge that supports the goals of the Kunming-Montreal Global Biodiversity Framework. By understanding the ecological impacts of invasive species like *Kalanchoe daigremontiana* and *Stapelia gigantea*, we can develop more effective strategies to protect and restore ecosystems. Continued research and targeted management actions are essential to mitigate the impacts of invasive species and conserve biodiversity, in line with the GBF's vision of living in harmony with nature by 2050.
+
+
+## Links to other targets and frameworks
+
+Progress towards this target will help to reach Goal A of the Kunming-Montreal Global Biodiversity Framework. In addition, progress towards this target will help to address Target 4 and, depending on the sites and pathways prioritized, could also help to reach targets 2, 3, 10, and 12. 
+
+
+[![](/images/GBF_Target_02.svg){.sdgs}](/gbf/target-02.qmd)
+[![](/images/GBF_Target_03.svg){.sdgs}](/gbf/target-03.qmd)
+[![](/images/GBF_Target_04.svg){.sdgs}](/gbf/target-04.qmd)
+[![](/images/GBF_Target_10.svg){.sdgs}](/gbf/target-10.qmd)
+[![](/images/GBF_Target_12.svg){.sdgs}](/gbf/target-12.qmd)
+

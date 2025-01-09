@@ -1,0 +1,8 @@
+---
+title: "target 20"
+subtitle: "[My contributions to GBF](/impact-GBF.qmd)"
+---
+
+![Target 20: Strengthen Capacity-Building, Technology Transfer, and Scientific and Technical Cooperation for Biodiversity](../images/GBF_Target_20.svg){width=350}
+
+<https://www.cbd.int/gbf/targets/20>

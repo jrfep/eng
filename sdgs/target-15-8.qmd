@@ -7,7 +7,22 @@ subtitle: "[My contributions to SDGs](/impact-SDG.qmd)"
 
 Invasive species pose a significant threat to biodiversity and ecosystem health, making their management a critical component of global conservation efforts. Sustainable Development Goal (SDG) 15.8 aims to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems, thereby protecting and restoring natural habitats.
 
-My research conducted in collaboration with Dr. Ileana Herrera, delves into the ecological impacts of two invasive succulent species, *Kalanchoe daigremontiana* and *Stapelia gigantea* , in semiarid regions of Venezuela. Our studies have revealed how these species alter soil nutrient cycles and affect the recruitment of native vegetation, providing valuable insights into the mechanisms driving their invasiveness and the subsequent ecological consequences.
+
+Target 15.8 of the Sustainable Development Goals addresses some elements of the *Aichi Biodiversity Target 9:  Invasive alien species prevented and controlled*.
+
+:::{.aside}
+![](/images/aichi-9.png){.aichi}
+:::
+
+In the *Kunming-Montreal Global Biodiversity Framework*, the [Target 6](../gbf/target-06.qmd) seeks to reduce the introduction and impact of invasive alien species.
+
+:::{.aside}
+[![](/images/GBF_Target_06.svg){.sdgs}](/gbf/target-06.qmd)
+:::
+
+## One case study in a semi-arid region of Venezuela
+
+My research conducted in collaboration with Dr. Ileana Herrera, delves into the ecological impacts of two invasive succulent species, *Kalanchoe daigremontiana* and *Stapelia gigantea* , in semiarid regions of Venezuela [@Herrera_2016; @Herrera2018b]. Our studies have revealed how these species alter soil nutrient cycles and affect the recruitment of native vegetation, providing valuable insights into the mechanisms driving their invasiveness and the subsequent ecological consequences.
 
 By quantifying the effects of *K. daigremontiana* on carbon (C) and nitrogen (N) mineralization and examining the contrasting impacts of *K. daigremontiana* and *S. gigantea* on microbial activity in the soil and native plant recruitment, our research contributes to a deeper understanding of how invasive species can disrupt ecosystem processes. These findings underscore the urgent need for targeted management actions to mitigate the adverse effects of invasive species and support the conservation of native biodiversity.
 
@@ -32,3 +47,6 @@ Our findings have important implications for ecosystem management and conservati
 
 In conclusion, our research contributes valuable knowledge to the field of invasive species management and supports the goals of SDG 15.8. By understanding the ecological impacts of invasive species like *Kalanchoe daigremontiana* and *Stapelia gigantea*, we can develop more effective strategies to protect and restore ecosystems. Continued research and targeted management actions are essential to mitigate the impacts of invasive species and conserve biodiversity.
 
+---
+
+Check my contributions to [other SDG targets](/impact-SDG.qmd) and the [GBF targets](/impact-GBF.qmd)!!
