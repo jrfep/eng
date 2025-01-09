@@ -1,7 +1,7 @@
 mkdir -p sandbox
 mkdir -p images
 
-for g in 2 6 11 15 14
+for g in 2 6 11 15 14 17
 do 
     wget --continue https://globalgoalscms.co.uk/wp-content/uploads/2021/10/goal-${g}.zip --output-document=sandbox/goal-${g}.zip
     unzip -u sandbox/goal-${g}.zip -d sandbox

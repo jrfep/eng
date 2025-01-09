@@ -1,0 +1,1 @@
+wget https://invasionevs.com/wp-content/uploads/2015/08/AICHI-9-150x150.png --output-document=images/aichi-9.png
