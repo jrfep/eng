@@ -16,9 +16,14 @@ Email: jr.ferrer.paris@gmail.com
 
 ## APPOINTMENTS AND EXPERIENCE
 
+### Senior Lecturer / Research Fellow - Level C, Research only function
+
+***University of New South Wales***, Sydney [Mar 2025 -- Present]{.cvdate}
+
+
 ### Senior Research Fellow / Senior Lecturer
 
-***University of New South Wales***, Sydney [Oct 2022 -- Present]{.cvdate}
+***University of New South Wales***, Sydney [Oct 2022 -- Feb 2025]{.cvdate}
 
 - Tracking ecosystems and adapting management to change in New South Wales, Australia.
 - Impacts of Red List of Ecosystems in Africa.
@@ -102,19 +107,23 @@ These indicators support risk assessments of ecosystems, condition measurement a
 
 ## RESEARCH OUTPUTS
 
-**August 2024**:
+**August 2025**:
 
-- 40 peer reviewed publications in scientific journals, two books, one book chapter and one article in conference proceedings,
-  - [Google Scholar](https://scholar.google.es/citations?user=A2Thq5UAAAAJ&hl=en) (since 2019): H-index = 16 (13), i10-index = 20 (16); citations = 1135 (918)
-  - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6507728759): H-index = 13, 36 documents, 640 citations by 573 documents, 
-  - [Web of Science](https://www.webofscience.com/wos/author/record/M-3785-2015): H-index = 12, 34 publications, 463 citations,  31 verified peer reviews
+- $>40$ peer reviewed publications in scientific journals, two books, one book chapter and one article in conference proceedings,
+  - [Google Scholar](https://scholar.google.es/citations?user=A2Thq5UAAAAJ&hl=en) (since 2020): H-index = 19 (15), i10-index = 25 (21); citations = 1575 (1327)
+  - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6507728759): H-index = 16, 40 documents, 896 citations by 799 documents, 
+  - [Web of Science](https://www.webofscience.com/wos/author/record/M-3785-2015): H-index = 14, 38 publications, 613 citations by 556 documents (excluding self-citations),  37 verified peer reviews
 
 - Contributions to open and reproducible science including pre-prints, reports, datasets, code and software in open access research repositories,
-  - [DataCite Commons](https://commons.datacite.org/orcid.org/0000-0002-9554-3395): 379 works with 365 citations, 94% with open access licenses
-  - [Figshare](https://figshare.com/authors/Jos_R_Ferrer_Paris/592994): 63 contributions, 53991 item views, 21295 item downloads,
-  - [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Ferrer-Paris%2C%20Jose%20R.%22&l=list&p=1&s=10&sort=bestmatch): 108 contributions, [OSF](https://osf.io/7q5ny/): 9 public projects, [GitHub](https://github.com/jrfep): 99 repositories
+  - [DataCite Commons](https://commons.datacite.org/orcid.org/0000-0002-9554-3395): 430 works with 377 citations, 90% with open access licenses
+  - [Figshare](https://figshare.com/authors/Jos_R_Ferrer_Paris/592994): 63 contributions, 65,201 item views, 24,848 item downloads, 4 citations
+  - [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Ferrer-Paris%2C%20Jose%20R.%22&l=list&p=1&s=10&sort=bestmatch): 121 contributions, [OSF](https://osf.io/7q5ny/): 9 public projects, [GitHub](https://github.com/jrfep): 106 repositories
 
 ## RESEARCH GRANTS
+
+ARDC, Australian Research Data Commons
+
+- Member of Project lead team, 1,000,000 AUD ARDC Co-investment
 
 IUCN, International Union for Conservation of Nature  [2024]{.cvdate}
 
@@ -146,7 +155,7 @@ Instituto Venezolano de Investigaciones Científicas, Venezuela:
 
 ## EDUCATION, CAPACITY BUILDING AND OUTREACH
 
-**Skills seminard for HDR students** [2023-2024]{.cvdate}
+**Skills seminar for HDR students** [2023-2024]{.cvdate}
 
 - Contributed sessions on reproducibility of research, sharing of research data, and best practices for coding in R.
 
@@ -231,6 +240,7 @@ Workshop *Innovative Tools and Approaches for Ecosystem Risk Assessment in Latin
 
 ## INVITED PRESENTATIONS AND WORKSHOPS
 
+- Invited presentation: [Estado actual del conocimiento en la evaluación de riesgo al colapso de ecosistemas](https://jrfep.quarto.pub/uicn-lre-estado-actual/) Virtual seminar of the IUCN Commission for Ecosystem Management (Latin America and Caribbean section) (August 2025)
 - Invited seminar: [Applications of the IUCN Red List of Ecosystems in research and conservation](https://jrfep.quarto.pub/iucn-rle-in-research-and-conservation) Open Seminar of the Mammal Research Institute, Polish Academy of Science,  Białowieża Poland (February 2024)
 - Invited virtual workshop: [Geospatial data in R](https://rpubs.com/jrfep/geospatial-workshop-intro-12-2023) for the Macquarie University R Users Group. (December 2023)
 - Invited seminar: [TIPOLOGÍA GLOBAL DE ECOSISTEMAS DE LA UICN: Un marco de clasificación integral para los ecosistemas de la tierra, integrando sus características funcionales y de composición.](https://rpubs.com/jrfep/GET-seminario-virtual) Virtual seminar of the IUCN Commission for Ecosystem Management (Latin America and Caribbean section). 2023	
