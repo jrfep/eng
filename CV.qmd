@@ -20,6 +20,8 @@ Email: jr.ferrer.paris@gmail.com
 
 ***University of New South Wales***, Sydney [Mar 2025 -- Present]{.cvdate}
 
+- Foundations for leading the nature positive ecosystem conservation agenda in Australia
+- Ecosystem Indicators Workflows
 
 ### Senior Research Fellow / Senior Lecturer
 
@@ -80,12 +82,16 @@ Biodiversity Research Unit, ***Instituto Venezolano de Investigaciones Cientifca
 
 Member of the **International Union for Conservation of Nature**'s Commission on Ecosystem Management:
 
-- Member of the **Red List of Ecosystem (RLE) Thematic group**
+- Co-lead of the **Red List of Ecosystem (RLE) Thematic group**
 - Member of the **RLE Database Committee**
 - Member of the **Global Ecosystem Typology committee**
 - Contributing to the **Green Status of Ecosystem working group**
 
-Member of the **Society for Conservation Biology** (Washington D.C., USA), **Ecological Society of Australia** and **Sociedad Venezolana de Ecología**.
+Member of the **Society for Conservation Biology** (Washington D.C., USA):
+- Handling editor for **Conservation Biology** journal
+- Member of the Oceania section
+
+Member of the **Ecological Society of Australia** and **Sociedad Venezolana de Ecología**.
 
 ::: {.no-print}
 
@@ -107,23 +113,24 @@ These indicators support risk assessments of ecosystems, condition measurement a
 
 ## RESEARCH OUTPUTS
 
-**August 2025**:
+**Mar 2026**:
 
 - $>40$ peer reviewed publications in scientific journals, two books, one book chapter and one article in conference proceedings,
-  - [Google Scholar](https://scholar.google.es/citations?user=A2Thq5UAAAAJ&hl=en) (since 2020): H-index = 19 (15), i10-index = 25 (21); citations = 1575 (1327)
-  - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6507728759): H-index = 16, 40 documents, 896 citations by 799 documents, 
-  - [Web of Science](https://www.webofscience.com/wos/author/record/M-3785-2015): H-index = 14, 38 publications, 613 citations by 556 documents (excluding self-citations),  37 verified peer reviews
+  - [Google Scholar](https://scholar.google.es/citations?user=A2Thq5UAAAAJ&hl=en) (since 2021): H-index = 21 (14), i10-index = 28 (20); citations = 1842 (1470)
+  - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6507728759): H-index = 16, 41 documents, 1,070 citations by 950 documents, 
+  - [Web of Science](https://www.webofscience.com/wos/author/record/M-3785-2015): H-index = 14, 39 publications, 820 citations by 704 documents (excluding self-citations),  42 verified peer reviews
 
 - Contributions to open and reproducible science including pre-prints, reports, datasets, code and software in open access research repositories,
-  - [DataCite Commons](https://commons.datacite.org/orcid.org/0000-0002-9554-3395): 430 works with 377 citations, 90% with open access licenses
-  - [Figshare](https://figshare.com/authors/Jos_R_Ferrer_Paris/592994): 63 contributions, 65,201 item views, 24,848 item downloads, 4 citations
-  - [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Ferrer-Paris%2C%20Jose%20R.%22&l=list&p=1&s=10&sort=bestmatch): 121 contributions, [OSF](https://osf.io/7q5ny/): 9 public projects, [GitHub](https://github.com/jrfep): 106 repositories
+  - [DataCite Commons](https://commons.datacite.org/orcid.org/0000-0002-9554-3395): 432 works with 55 citations, 91% with open access licenses
+  - [Figshare](https://figshare.com/authors/Jos_R_Ferrer_Paris/592994): 63 contributions, 70,561 item views, 26,859 item downloads, 6 citations
+  - [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Ferrer-Paris%2C%20Jose%20R.%22&l=list&p=1&s=10&sort=bestmatch): 122 contributions, [OSF](https://osf.io/7q5ny/): 9 public projects, [GitHub](https://github.com/jrfep): 106 repositories
 
 ## RESEARCH GRANTS
 
 ARDC, Australian Research Data Commons
 
-- Member of Project lead team, 1,000,000 AUD ARDC Co-investment
+- Project lead, 1,000,000 AUD ARDC Co-investment (2026-2028)
+- Member of Project lead team, 1,000,000 AUD ARDC Co-investment (2025-2027)
 
 IUCN, International Union for Conservation of Nature  [2024]{.cvdate}
 
@@ -155,6 +162,17 @@ Instituto Venezolano de Investigaciones Científicas, Venezuela:
 
 ## EDUCATION, CAPACITY BUILDING AND OUTREACH
 
+**Red List training workshop**, Lima, Perú [2025]{.cvdate}
+
+- Contribution to cross-referencing national ecosystem map to Global Ecosystem Typology
+- Red List of Ecosystem training workshop
+- Equal contribution to convening and delivering of workshop
+
+**Red List training workshop**, Abu Dhabi, United Arab Emirates [2025]{.cvdate}
+
+- Global Ecosystem Typology, Green Status of Ecosystems and Red List of Ecosystem training workshops
+- Supporting roles in convening and delivery
+
 **Skills seminar for HDR students** [2023-2024]{.cvdate}
 
 - Contributed sessions on reproducibility of research, sharing of research data, and best practices for coding in R.
@@ -172,7 +190,7 @@ Instituto Venezolano de Investigaciones Científicas, Venezuela:
 - Certified Carpentries Instructor
 - Volunteer instructor for Data carpentry and Software carpentry workshops
 
-**UNSW codeRs** [2021-2024]{.cvdate}
+**UNSW codeRs** [2021-2026]{.cvdate}
 
 - R coding community run by students and staff
 - Founder and Steering Committee member
@@ -255,9 +273,11 @@ Workshop *Innovative Tools and Approaches for Ecosystem Risk Assessment in Latin
 
 :::
 
+<!--//
 ::: {.print-only}
 ## REFERENCES
 
 Available upon request
 
 :::
+//-->
