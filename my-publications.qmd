@@ -20,7 +20,6 @@ format-links: [pdf]
 Email: jr.ferrer.paris@gmail.com
 :::
 
-
 This is my list of peer-reviewed publications, including journal articles, book chapters and edited books. Updated in March 2026.
 
 ::: {#refs}
